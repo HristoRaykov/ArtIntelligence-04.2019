@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb317cd6-13f5-4a4b-9bae-235f7025bb17" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>x</find>
+      <find>x =</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1398" />
+    <option name="y" value="71" />
+    <option name="width" value="1326" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="02.BasicAlgebra" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="02.BasicAlgebra" type="462c0819:PsiDirectoryNode" />
+              <item name="04. Basic-Algebra-Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01.HighSchoolMath/02. High-School-Maths-Exercise" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb317cd6-13f5-4a4b-9bae-235f7025bb17" name="Default Changelist" comment="" />
+      <created>1555758330587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555758330587</updated>
+      <workItem from="1555758334913" duration="11384000" />
+      <workItem from="1555772508321" duration="5491000" />
+      <workItem from="1555788684279" duration="1652000" />
+      <workItem from="1555832373369" duration="3913000" />
+      <workItem from="1555850529899" duration="700000" />
+      <workItem from="1555874242020" duration="1078000" />
+      <workItem from="1555964941110" duration="670000" />
+      <workItem from="1556030863475" duration="9534000" />
+      <workItem from="1556092101980" duration="20265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54687000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1366" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.15261473" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Jupyter" order="1" sideWeight="0.49893278" weight="0.34591195" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4994664" weight="0.32914045" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5010672" side_tool="true" weight="0.34591195" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.49839914" weight="0.32914045" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32914045" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.49893278" weight="0.49790356" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32914045" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="0" side_tool="true" weight="0.32977587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" weight="0.32977587" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32977587" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.153125" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Jupyter" order="1" weight="0.32914045" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32914045" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="5" weight="0.32914045" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32914045" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32914045" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="0" side_tool="true" weight="0.32977587" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" auto_hide="true" id="SciView" order="3" show_stripe_button="false" type="FLOATING" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MathConcepts$02__High_School_Maths_Exercise.coverage" NAME="02. High-School-Maths-Exercise Coverage Results" MODIFIED="1555759285787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01.HighSchoolMath" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/_pylab_helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/axes/_subplots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.HighSchoolMath/02. High-School-Maths-Exercise/math.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/axis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/home/hristocr/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/home/hristocr/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib</OriginalElement>
+          <nodes>
+            <node x="" y="">matplotlib.backend_managers.ToolEvent</node>
+            <node x="" y="">matplotlib.tri.tritools.TriAnalyzer</node>
+            <node x="" y="">matplotlib.ticker.EngFormatter</node>
+            <node x="" y="">matplotlib.artist.ArtistInspector</node>
+            <node x="" y="">matplotlib.hatch.VerticalHatch</node>
+            <node x="" y="">matplotlib.backend_tools.ToolViewsPositions</node>
+            <node x="" y="">matplotlib.scale.InvertedLogTransformBase</node>
+            <node x="" y="">matplotlib.blocking_input.BlockingKeyMouseInput</node>
+            <node x="" y="">matplotlib.transforms.Affine2D</node>
+            <node x="" y="">matplotlib.backend_tools.ToolCursorPosition</node>
+            <node x="" y="">matplotlib.collections.TriMesh</node>
+            <node x="" y="">matplotlib.mathtext.GlueSpec</node>
+            <node x="" y="">matplotlib.scale.Log10Transform</node>
+            <node x="" y="">matplotlib.animation.MovieWriterRegistry</node>
+            <node x="" y="">matplotlib.backends.backend_tkagg._BackendTkAgg</node>
+            <node x="" y="">matplotlib.patheffects.SimpleLineShadow</node>
+            <node x="" y="">matplotlib.backends.backend_wx.ToolCopyToClipboardWx</node>
+            <node x="" y="">matplotlib.backends.backend_agg._BackendAgg</node>
+            <node x="" y="">matplotlib.category.UnitData</node>
+            <node x="" y="">matplotlib.streamplot.DomainMap</node>
+            <node x="" y="">matplotlib.widgets.CheckButtons</node>
+            <node x="" y="">matplotlib.backends.backend_wxagg.FigureFrameWxAgg</node>
+            <node x="" y="">matplotlib.colors.PowerNorm</node>
+            <node x="" y="">json.encoder.JSONEncoder</node>
+            <node x="" y="">matplotlib.backend_bases.MouseEvent</node>
+            <node x="" y="">matplotlib.backends.backend_wx.ConfigureSubplotsWx</node>
+            <node x="" y="">matplotlib.backends.backend_wx._BackendWx</node>
+            <node x="" y="">matplotlib.transforms.TransformedPath</node>
+            <node x="" y="">matplotlib.backends.backend_cairo.GraphicsContextCairo</node>
+            <node x="" y="">matplotlib.cbook.Locked</node>
+            <node x="" y="">matplotlib.axis.YAxis</node>
+            <node x="" y="">matplotlib.mlab.GaussianKDE</node>
+            <node x="" y="">matplotlib.ticker.StrMethodFormatter</node>
+            <node x="" y="">matplotlib.transforms.TransformedBbox</node>
+            <node x="" y="">matplotlib.backends._backend_tk._BackendTk</node>
+            <node x="" y="">matplotlib.animation.ImageMagickBase</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.FigureCanvasQT</node>
+            <node x="" y="">matplotlib.hatch.HatchPatternBase</node>
+            <node x="" y="">QWidget</node>
+            <node x="" y="">matplotlib.collections.Collection</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.ToolCopyToClipboardQT</node>
+            <node x="" y="">matplotlib.container.BarContainer</node>
+            <node x="" y="">matplotlib.patches.YAArrow</node>
+            <node x="" y="">matplotlib.mathtext.StandardPsFonts</node>
+            <node x="" y="">matplotlib.rc_context</node>
+            <node x="" y="">matplotlib.patches.ConnectionStyle</node>
+            <node x="" y="">tkinter.Pack</node>
+            <node x="" y="">matplotlib.backend_tools.ViewsPositionsBase</node>
+            <node x="" y="">matplotlib.backend_tools.RubberbandBase</node>
+            <node x="" y="">tkinter.Widget</node>
+            <node x="" y="">matplotlib.backend_bases.ShowBase</node>
+            <node x="" y="">matplotlib.offsetbox.DraggableOffsetBox</node>
+            <node x="" y="">matplotlib.text.Annotation</node>
+            <node x="" y="">matplotlib.sphinxext.mathmpl.latex_math</node>
+            <node x="" y="">matplotlib.transforms.Bbox</node>
+            <node x="" y="">matplotlib.hatch.SouthEastHatch</node>
+            <node x="" y="">matplotlib.ticker.TickHelper</node>
+            <node x="" y="">typing.Sequence</node>
+            <node x="" y="">matplotlib.colors.SymLogNorm</node>
+            <node x="" y="">matplotlib.backend_bases.PickEvent</node>
+            <node x="" y="">matplotlib.backends.backend_macosx.NavigationToolbar2Mac</node>
+            <node x="" y="">matplotlib.mathtext.AutoWidthChar</node>
+            <node x="" y="">matplotlib.bezier.BezierSegment</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.SetCursorGTK3</node>
+            <node x="" y="">matplotlib.mathtext.FontConstantsBase</node>
+            <node x="" y="">matplotlib.testing.jpl_units.UnitDbl.UnitDbl</node>
+            <node x="" y="">matplotlib.backends.backend_nbagg.NavigationIPy</node>
+            <node x="" y="">matplotlib.offsetbox.AuxTransformBox</node>
+            <node x="" y="">matplotlib.cbook.CallbackRegistry</node>
+            <node x="" y="">matplotlib.mathtext.Accent</node>
+            <node x="" y="">matplotlib.backends.backend_qt5cairo.FigureCanvasQTCairo</node>
+            <node x="" y="">matplotlib.mathtext.MathtextBackend</node>
+            <node x="" y="">tkinter.Grid</node>
+            <node x="" y="">matplotlib.collections._CollectionWithSizes</node>
+            <node x="" y="">matplotlib.artist.Artist</node>
+            <node x="" y="">matplotlib.scale.InvertedSymmetricalLogTransform</node>
+            <node x="" y="">matplotlib.backend_tools.ToolFullScreen</node>
+            <node x="" y="">matplotlib.rcsetup.validate_nseq_int</node>
+            <node x="" y="">matplotlib.colors.Colormap</node>
+            <node x="" y="">matplotlib.backends.backend_pdf.Reference</node>
+            <node x="" y="">matplotlib.transforms.Transform</node>
+            <node x="" y="">matplotlib.backends.backend_wx._HelpDialog</node>
+            <node x="" y="">ValueError</node>
+            <node x="" y="">matplotlib.collections.StarPolygonCollection</node>
+            <node x="" y="">matplotlib.ticker.FixedFormatter</node>
+            <node x="" y="">matplotlib.dates.MicrosecondLocator</node>
+            <node x="" y="">matplotlib.mlab.FormatObj</node>
+            <node x="" y="">matplotlib.offsetbox.HPacker</node>
+            <node x="" y="">matplotlib.backends.backend_wx.fake_stderr</node>
+            <node x="" y="">matplotlib.backends.backend_agg.RendererAgg</node>
+            <node x="" y="">matplotlib.backends.backend_pgf.LatexManagerFactory</node>
+            <node x="" y="">matplotlib.ticker.NullFormatter</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerErrorbar</node>
+            <node x="" y="">matplotlib.backend_tools.ToolPan</node>
+            <node x="" y="">matplotlib.mathtext.Filll</node>
+            <node x="" y="">matplotlib.backends.backend_pgf.LatexManager</node>
+            <node x="" y="">matplotlib.backends._backend_tk.TimerTk</node>
+            <node x="" y="">matplotlib.animation.MovieWriter</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.RubberbandGTK3</node>
+            <node x="" y="">matplotlib.mathtext.MathtextBackendPs</node>
+            <node x="" y="">matplotlib.mathtext.Hlist</node>
+            <node x="" y="">matplotlib.font_manager.FontManager</node>
+            <node x="" y="">matplotlib.axis.Axis</node>
+            <node x="" y="">matplotlib.backends.backend_webagg_core.FigureManagerWebAgg</node>
+            <node x="" y="">matplotlib.backends.qt_editor.formlayout.FormWidget</node>
+            <node x="" y="">matplotlib.backends.qt_editor.formlayout.FormComboWidget</node>
+            <node x="" y="">matplotlib.animation.HTMLWriter</node>
+            <node x="" y="">matplotlib.table.Table</node>
+            <node x="" y="">matplotlib.offsetbox.PaddedBox</node>
+            <node x="" y="">matplotlib.animation.FFMpegBase</node>
+            <node x="" y="">typing.MutableMapping</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.ToolCopyToClipboardGTK3</node>
+            <node x="" y="">matplotlib.backend_tools.ToolToggleBase</node>
+            <node x="" y="">tkinter.Place</node>
+            <node x="" y="">matplotlib.backends.backend_wx._FigureCanvasWxBase</node>
+            <node x="" y="">matplotlib.backend_managers.ToolTriggerEvent</node>
+            <node x="" y="">matplotlib.table.CustomCell</node>
+            <node x="" y="">matplotlib.transforms.TransformedPatchPath</node>
+            <node x="" y="">matplotlib.offsetbox.PackerBase</node>
+            <node x="" y="">matplotlib.backends.backend_macosx.FigureManagerMac</node>
+            <node x="" y="">matplotlib.scale.LogTransform</node>
+            <node x="" y="">matplotlib.ticker.FormatStrFormatter</node>
+            <node x="" y="">matplotlib.backend_bases.TimerBase</node>
+            <node x="" y="">matplotlib.mathtext.NegFilll</node>
+            <node x="" y="">matplotlib.cbook._OrderedSet</node>
+            <node x="" y="">matplotlib.mathtext.StixSansFonts</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.FigureManagerQT</node>
+            <node x="" y="">matplotlib.gridspec.GridSpecBase</node>
+            <node x="" y="">matplotlib.ticker.LogFormatter</node>
+            <node x="" y="">matplotlib.mathtext.SubSuperCluster</node>
+            <node x="" y="">matplotlib.backends.backend_pgf.FigureCanvasPgf</node>
+            <node x="" y="">matplotlib.patches.Circle</node>
+            <node x="" y="">QGridLayout</node>
+            <node x="" y="">matplotlib.mathtext.Kern</node>
+            <node x="" y="">Button</node>
+            <node x="" y="">matplotlib.widgets.SpanSelector</node>
+            <node x="" y="">matplotlib.backends.backend_wx.PrintoutWx</node>
+            <node x="" y="">matplotlib.backends.backend_wx.NavigationToolbar2Wx</node>
+            <node x="" y="">matplotlib.colorbar.ColorbarPatch</node>
+            <node x="" y="">matplotlib.backends.backend_wx.Toolbar</node>
+            <node x="" y="">matplotlib.backends.backend_cairo.ArrayWrapper</node>
+            <node x="" y="">matplotlib.contour.QuadContourSet</node>
+            <node x="" y="">matplotlib.ticker.Base</node>
+            <node x="" y="">matplotlib.mlab.FormatString</node>
+            <node x="" y="">matplotlib.contour.ClabelText</node>
+            <node x="" y="">matplotlib.quiver.Barbs</node>
+            <node x="" y="">matplotlib.text.Text</node>
+            <node x="" y="">matplotlib.transforms.BlendedGenericTransform</node>
+            <node x="" y="">matplotlib.transforms.LockableBbox</node>
+            <node x="" y="">matplotlib.patches.Arrow</node>
+            <node x="" y="">matplotlib.ticker.AutoMinorLocator</node>
+            <node x="" y="">matplotlib.widgets.TextBox</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.ToolbarQt</node>
+            <node x="" y="">matplotlib.mathtext.MathtextBackendPath</node>
+            <node x="" y="">matplotlib.scale.SymmetricalLogScale</node>
+            <node x="" y="">matplotlib.sphinxext.plot_directive.ImageFile</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerCircleCollection</node>
+            <node x="" y="">matplotlib.patches.FancyArrow</node>
+            <node x="" y="">matplotlib.widgets._SelectorWidget</node>
+            <node x="" y="">QDialog</node>
+            <node x="" y="">matplotlib.animation.ImageMagickFileWriter</node>
+            <node x="" y="">matplotlib.spines.Spine</node>
+            <node x="" y="">matplotlib.widgets.ToolHandles</node>
+            <node x="" y="">matplotlib.widgets.Slider</node>
+            <node x="" y="">matplotlib.mathtext.Fonts</node>
+            <node x="" y="">matplotlib.dviread.Encoding</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerPolyCollection</node>
+            <node x="" y="">matplotlib.backend_bases.ResizeEvent</node>
+            <node x="" y="">matplotlib.backends.backend_wx.FigureManagerWx</node>
+            <node x="" y="">matplotlib.backends.backend_wx.StatusbarWx</node>
+            <node x="" y="">matplotlib.projections.geo.AitoffAxes</node>
+            <node x="" y="">matplotlib.image._ImageBase</node>
+            <node x="" y="">matplotlib.mlab.FormatThousands</node>
+            <node x="" y="">matplotlib.backends.backend_macosx.FigureCanvasMac</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerPathCollection</node>
+            <node x="" y="">Warning</node>
+            <node x="" y="">matplotlib.backends._backend_tk.HelpTk</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerBase</node>
+            <node x="" y="">matplotlib.scale.LogTransformBase</node>
+            <node x="" y="">matplotlib.collections.LineCollection</node>
+            <node x="" y="">matplotlib.patches.BoxStyle</node>
+            <node x="" y="">matplotlib.backends.backend_webagg_core.NavigationToolbar2WebAgg</node>
+            <node x="" y="">typing.MutableSet</node>
+            <node x="" y="">matplotlib.backends.backend_cairo.RendererCairo</node>
+            <node x="" y="">matplotlib.testing.compare._GSConverter</node>
+            <node x="" y="">tornado.httputil.HTTPServerConnectionDelegate</node>
+            <node x="" y="">QMainWindow</node>
+            <node x="" y="">matplotlib.scale.InvertedLog10Transform</node>
+            <node x="" y="">matplotlib.backends.qt_editor.formlayout.ColorLayout</node>
+            <node x="" y="">matplotlib.backends.backend_wx.RendererWx</node>
+            <node x="" y="">matplotlib.backends.qt_editor.formlayout.FormTabWidget</node>
+            <node x="" y="">Element</node>
+            <node x="" y="">matplotlib.text._AnnotationBase</node>
+            <node x="" y="">matplotlib.collections.EllipseCollection</node>
+            <node x="" y="">types.SimpleNamespace</node>
+            <node x="" y="">matplotlib.hatch.SmallFilledCircles</node>
+            <node x="" y="">matplotlib.gridspec.SubplotSpec</node>
+            <node x="" y="">matplotlib.patches._Style</node>
+            <node x="" y="">matplotlib.backends.backend_wxcairo._BackendWxCairo</node>
+            <node x="" y="">matplotlib.backend_bases.NonGuiException</node>
+            <node x="" y="">matplotlib.mlab.FormatBool</node>
+            <node x="" y="">matplotlib.backends._backend_tk.FigureManagerTk</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.NavigationToolbar2QT</node>
+            <node x="" y="">matplotlib.path.Path</node>
+            <node x="" y="">matplotlib.backends.backend_wxagg._BackendWxAgg</node>
+            <node x="" y="">matplotlib.backend_tools.ConfigureSubplotsBase</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerNpointsYoffsets</node>
+            <node x="" y="">matplotlib.patheffects.Stroke</node>
+            <node x="" y="">matplotlib.rcsetup.validate_nseq_float</node>
+            <node x="" y="">matplotlib.backends.backend_template.GraphicsContextTemplate</node>
+            <node x="" y="">matplotlib.backends.backend_pdf.Verbatim</node>
+            <node x="" y="">matplotlib.backends.backend_wx.FigureCanvasWx</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.StatusbarQt</node>
+            <node x="" y="">Dialog</node>
+            <node x="" y="">matplotlib.backend_tools.AxisScaleBase</node>
+            <node x="" y="">matplotlib.projections.geo._GeoTransform</node>
+            <node x="" y="">matplotlib.backend_tools.ToolYScale</node>
+            <node x="" y="">matplotlib.type1font.Type1Font</node>
+            <node x="" y="">matplotlib.dates.WeekdayLocator</node>
+            <node x="" y="">matplotlib.image.NonUniformImage</node>
+            <node x="" y="">matplotlib.category.StrCategoryLocator</node>
+            <node x="" y="">matplotlib.backends._backend_tk.ToolTip</node>
+            <node x="" y="">matplotlib.backends.qt_editor.formlayout.FormDialog</node>
+            <node x="" y="">matplotlib.category.StrCategoryFormatter</node>
+            <node x="" y="">typing.Sized</node>
+            <node x="" y="">matplotlib.transforms.TransformNode</node>
+            <node x="" y="">matplotlib.dates.IndexDateFormatter</node>
+            <node x="" y="">matplotlib.patheffects.PathEffectRenderer</node>
+            <node x="" y="">matplotlib.backends._backend_tk.ToolbarTk</node>
+            <node x="" y="">matplotlib.backends.backend_pdf.Name</node>
+            <node x="" y="">matplotlib.offsetbox.OffsetBox</node>
+            <node x="" y="">matplotlib.backends._backend_tk.FigureCanvasTk</node>
+            <node x="" y="">matplotlib.backends.backend_wx.GraphicsContextWx</node>
+            <node x="" y="">matplotlib.container.StemContainer</node>
+            <node x="" y="">matplotlib.projections.polar._AxisWrapper</node>
+            <node x="" y="">matplotlib.backend_tools.SetCursorBase</node>
+            <node x="" y="">matplotlib.testing.jpl_units.EpochConverter.EpochConverter</node>
+            <node x="" y="">matplotlib.ticker.MaxNLocator</node>
+            <node x="" y="">matplotlib.testing.jpl_units.UnitDblConverter.UnitDblConverter</node>
+            <node x="" y="">tkinter.Frame</node>
+            <node x="" y="">matplotlib.backend_bases.Event</node>
+            <node x="" y="">matplotlib.projections.geo.MollweideAxes</node>
+            <node x="" y="">Timer</node>
+            <node x="" y="">matplotlib.backends.backend_pgf.FigureManagerPgf</node>
+            <node x="" y="">object</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.FigureCanvasGTK3</node>
+            <node x="" y="">matplotlib.gridspec.GridSpec</node>
+            <node x="" y="">matplotlib.transforms.CompositeGenericTransform</node>
+            <node x="" y="">matplotlib.backends.backend_ps.PsBackendHelper</node>
+            <node x="" y="">matplotlib.Verbose</node>
+            <node x="" y="">matplotlib.image.AxesImage</node>
+            <node x="" y="">matplotlib.widgets.RadioButtons</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerLine2D</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.FigureManagerGTK3</node>
+            <node x="" y="">matplotlib.axes._axes.Axes</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerPatch</node>
+            <node x="" y="">matplotlib.patches.PathPatch</node>
+            <node x="" y="">matplotlib.transforms.BboxTransformToMaxOnly</node>
+            <node x="" y="">matplotlib.dates.MonthLocator</node>
+            <node x="" y="">matplotlib.backends.backend_pgf.TmpDirCleaner</node>
+            <node x="" y="">matplotlib.offsetbox.DraggableAnnotation</node>
+            <node x="" y="">Panel</node>
+            <node x="" y="">matplotlib.backends.backend_cairo._BackendCairo</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3cairo._BackendGTK3Cairo</node>
+            <node x="" y="">matplotlib.axes._base._AxesBase</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerTuple</node>
+            <node x="" y="">matplotlib.mlab.FormatPercent</node>
+            <node x="" y="">matplotlib.text.OffsetFrom</node>
+            <node x="" y="">matplotlib.backends.windowing.FocusManager</node>
+            <node x="" y="">matplotlib.animation.PillowWriter</node>
+            <node x="" y="">matplotlib.colorbar.ColorbarBase</node>
+            <node x="" y="">matplotlib.backend_bases.NavigationToolbar2</node>
+            <node x="" y="">matplotlib.dates.AutoDateFormatter</node>
+            <node x="" y="">matplotlib.patches.FancyBboxPatch</node>
+            <node x="" y="">matplotlib.backend_tools.ToolZoom</node>
+            <node x="" y="">typing.AbstractSet</node>
+            <node x="" y="">matplotlib.animation.ArtistAnimation</node>
+            <node x="" y="">matplotlib.backends.backend_pdf.Stream</node>
+            <node x="" y="">matplotlib.testing.decorators._ImageComparisonBase</node>
+            <node x="" y="">matplotlib.cbook.silent_list</node>
+            <node x="" y="">matplotlib.backends.backend_ps._BackendPS</node>
+            <node x="" y="">matplotlib.mathtext.Vrule</node>
+            <node x="" y="">matplotlib.axis.XAxis</node>
+            <node x="" y="">matplotlib.animation.AVConvFileWriter</node>
+            <node x="" y="">matplotlib.figure.AxesStack</node>
+            <node x="" y="">matplotlib.fontconfig_pattern.FontconfigPatternParser</node>
+            <node x="" y="">matplotlib.backend_bases._Backend</node>
+            <node x="" y="">matplotlib.colors.LightSource</node>
+            <node x="" y="">matplotlib.projections.ProjectionRegistry</node>
+            <node x="" y="">matplotlib.backends.backend_wxagg.FigureCanvasWxAgg</node>
+            <node x="" y="">matplotlib.blocking_input.BlockingContourLabeler</node>
+            <node x="" y="">matplotlib.patches.Shadow</node>
+            <node x="" y="">matplotlib.backends.backend_qt5agg.FigureCanvasQTAgg</node>
+            <node x="" y="">matplotlib.backends.backend_pgf._BackendPgf</node>
+            <node x="" y="">matplotlib.bezier.NonIntersectingPathException</node>
+            <node x="" y="">matplotlib.mathtext.ComputerModernFontConstants</node>
+            <node x="" y="">matplotlib.patches.Patch</node>
+            <node x="" y="">matplotlib.colorbar._ColorbarAutoMinorLocator</node>
+            <node x="" y="">matplotlib.backend_bases.KeyEvent</node>
+            <node x="" y="">matplotlib.backend_tools.ToolXScale</node>
+            <node x="" y="">typing.Container</node>
+            <node x="" y="">matplotlib.offsetbox.VPacker</node>
+            <node x="" y="">typing.Iterable</node>
+            <node x="" y="">matplotlib.blocking_input.BlockingInput</node>
+            <node x="" y="">matplotlib.ticker.OldAutoLocator</node>
+            <node x="" y="">matplotlib.tri.triinterpolate._DOF_estimator_geom</node>
+            <node x="" y="">Exception</node>
+            <node x="" y="">matplotlib.container.Container</node>
+            <node x="" y="">matplotlib.offsetbox.AnchoredText</node>
+            <node x="" y="">matplotlib.projections.polar.RadialTick</node>
+            <node x="" y="">matplotlib.backends.backend_tkcairo._BackendTkCairo</node>
+            <node x="" y="">matplotlib.ticker.Formatter</node>
+            <node x="" y="">matplotlib.projections.polar.ThetaAxis</node>
+            <node x="" y="">matplotlib.dviread.Tfm</node>
+            <node x="" y="">matplotlib.backends.backend_template.FigureCanvasTemplate</node>
+            <node x="" y="">matplotlib.category.StrCategoryConverter</node>
+            <node x="" y="">matplotlib.font_manager.TempCache</node>
+            <node x="" y="">matplotlib.backends.backend_svg._BackendSVG</node>
+            <node x="" y="">matplotlib.backends.backend_qt5._BackendQT5</node>
+            <node x="" y="">matplotlib.patheffects.withSimplePatchShadow</node>
+            <node x="" y="">matplotlib.backends.backend_ps.RendererPS</node>
+            <node x="" y="">General</node>
+            <node x="" y="">matplotlib.dates.RRuleLocator</node>
+            <node x="" y="">matplotlib.tri.triinterpolate._Sparse_Matrix_coo</node>
+            <node x="" y="">matplotlib.backends.backend_webagg_core.FigureCanvasWebAggCore</node>
+            <node x="" y="">matplotlib.hatch.Shapes</node>
+            <node x="" y="">matplotlib.backends.backend_qt5agg._BackendQT5Agg</node>
+            <node x="" y="">matplotlib.backends.backend_qt4._BackendQT4</node>
+            <node x="" y="">matplotlib.scale.InvertedLog2Transform</node>
+            <node x="" y="">matplotlib.dates.SecondLocator</node>
+            <node x="" y="">matplotlib.backends.backend_ps.GraphicsContextPS</node>
+            <node x="" y="">matplotlib.hatch.LargeCircles</node>
+            <node x="" y="">matplotlib.testing.compare._SVGConverter</node>
+            <node x="" y="">matplotlib.mathtext.SsGlue</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerRegularPolyCollection</node>
+            <node x="" y="">matplotlib.texmanager.TexManager</node>
+            <node x="" y="">matplotlib.backend_bases.ToolContainerBase</node>
+            <node x="" y="">matplotlib.transforms.TransformWrapper</node>
+            <node x="" y="">matplotlib._pylab_helpers.Gcf</node>
+            <node x="" y="">matplotlib.patheffects.PathPatchEffect</node>
+            <node x="" y="">matplotlib.ticker.LogFormatterSciNotation</node>
+            <node x="" y="">matplotlib.backends.backend_pdf.GraphicsContextPdf</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.SaveFigureQt</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3cairo.FigureCanvasGTK3Cairo</node>
+            <node x="" y="">matplotlib.tri.triinterpolate.LinearTriInterpolator</node>
+            <node x="" y="">matplotlib.mlab.FormatFloat</node>
+            <node x="" y="">matplotlib.mathtext.MathtextBackendBitmap</node>
+            <node x="" y="">matplotlib.backends.backend_wx.HelpWx</node>
+            <node x="" y="">matplotlib.mathtext.MathTextWarning</node>
+            <node x="" y="">FigureManager</node>
+            <node x="" y="">matplotlib.mathtext.Rule</node>
+            <node x="" y="">matplotlib.hatch.SmallCircles</node>
+            <node x="" y="">matplotlib.offsetbox.OffsetImage</node>
+            <node x="" y="">matplotlib.transforms.AffineBase</node>
+            <node x="" y="">matplotlib.backend_bases.StatusbarBase</node>
+            <node x="" y="">matplotlib.mathtext.HCentered</node>
+            <node x="" y="">matplotlib.mathtext.Glue</node>
+            <node x="" y="">matplotlib.mathtext.Box</node>
+            <node x="" y="">matplotlib.offsetbox.DraggableBase</node>
+            <node x="" y="">matplotlib.colors.ListedColormap</node>
+            <node x="" y="">matplotlib.backends.backend_pgf.GraphicsContextPgf</node>
+            <node x="" y="">matplotlib.backends._backend_tk.StatusbarTk</node>
+            <node x="" y="">matplotlib.quiver.QuiverKey</node>
+            <node x="" y="">matplotlib.collections.EventCollection</node>
+            <node x="" y="">matplotlib.backends.backend_template.RendererTemplate</node>
+            <node x="" y="">matplotlib.dates.DateLocator</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.StatusbarGTK3</node>
+            <node x="" y="">matplotlib.widgets.LockDraw</node>
+            <node x="" y="">matplotlib.testing.jpl_units.UnitDblFormatter.UnitDblFormatter</node>
+            <node x="" y="">list</node>
+            <node x="" y="">matplotlib.backends.qt_editor.formsubplottool.UiSubplotTool</node>
+            <node x="" y="">matplotlib.image.BboxImage</node>
+            <node x="" y="">matplotlib.patheffects.SimplePatchShadow</node>
+            <node x="" y="">matplotlib.backend_bases.GraphicsContextBase</node>
+            <node x="" y="">matplotlib.axis.YTick</node>
+            <node x="" y="">matplotlib.rcsetup.ValidateInStrings</node>
+            <node x="" y="">matplotlib.backends.backend_webagg.ServerThread</node>
+            <node x="" y="">dict</node>
+            <node x="" y="">matplotlib.collections.QuadMesh</node>
+            <node x="" y="">matplotlib.widgets.EllipseSelector</node>
+            <node x="" y="">matplotlib.mathtext.DejaVuFonts</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.TimerQT</node>
+            <node x="" y="">matplotlib.backends.backend_cairo.FigureCanvasCairo</node>
+            <node x="" y="">matplotlib.backends.backend_pdf.Operator</node>
+            <node x="" y="">matplotlib.mathtext.StixFonts</node>
+            <node x="" y="">Box</node>
+            <node x="" y="">matplotlib.ticker.LogFormatterMathtext</node>
+            <node x="" y="">matplotlib.collections.RegularPolyCollection</node>
+            <node x="" y="">matplotlib.backends.backend_nbagg.CommSocket</node>
+            <node x="" y="">matplotlib.collections.AsteriskPolygonCollection</node>
+            <node x="" y="">matplotlib.backends.backend_pgf.RendererPgf</node>
+            <node x="" y="">matplotlib.testing.exceptions.ImageComparisonFailure</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3cairo.RendererGTK3Cairo</node>
+            <node x="" y="">matplotlib.ticker.NullLocator</node>
+            <node x="" y="">matplotlib.patches.ConnectionPatch</node>
+            <node x="" y="">matplotlib.cbook.GetRealpathAndStat</node>
+            <node x="" y="">matplotlib.ticker.MultipleLocator</node>
+            <node x="" y="">matplotlib.mathtext.DejaVuSerifFonts</node>
+            <node x="" y="">matplotlib.widgets.Lasso</node>
+            <node x="" y="">matplotlib.quiver.Quiver</node>
+            <node x="" y="">matplotlib.mlab.FormatDate</node>
+            <node x="" y="">matplotlib.backend_tools.ToolBase</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3agg.FigureManagerGTK3Agg</node>
+            <node x="" y="">matplotlib.backend_managers.ToolManager</node>
+            <node x="" y="">matplotlib.widgets.Cursor</node>
+            <node x="" y="">threading.Thread</node>
+            <node x="" y="">matplotlib.projections.geo.HammerAxes</node>
+            <node x="" y="">matplotlib.patches.FancyArrowPatch</node>
+            <node x="" y="">matplotlib.colorbar._ColorbarLogLocator</node>
+            <node x="" y="">matplotlib.backends.backend_wx.SaveFigureWx</node>
+            <node x="" y="">Window</node>
+            <node x="" y="">matplotlib.patches.CirclePolygon</node>
+            <node x="" y="">matplotlib.RcParams</node>
+            <node x="" y="">matplotlib.backends.backend_svg.RendererSVG</node>
+            <node x="" y="">matplotlib.backends.backend_pdf.FigureCanvasPdf</node>
+            <node x="" y="">matplotlib.tri.trirefine.TriRefiner</node>
+            <node x="" y="">matplotlib.ticker.OldScalarFormatter</node>
+            <node x="" y="">matplotlib.mathtext.Char</node>
+            <node x="" y="">matplotlib.widgets.Widget</node>
+            <node x="" y="">matplotlib.backends.backend_pdf._BackendPdf</node>
+            <node x="" y="">matplotlib.testing.decorators.CleanupTest</node>
+            <node x="" y="">matplotlib.backends.backend_qt4cairo._BackendQT4Cairo</node>
+            <node x="" y="">matplotlib.cm.ScalarMappable</node>
+            <node x="" y="">matplotlib.backends.qt_editor.formlayout.ColorButton</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.SubplotToolQt</node>
+            <node x="" y="">typing.Reversible</node>
+            <node x="" y="">matplotlib.backends.backend_pdf.PdfFile</node>
+            <node x="" y="">matplotlib.units.ConversionInterface</node>
+            <node x="" y="">matplotlib.backends.backend_webagg.WebAggApplication</node>
+            <node x="" y="">matplotlib.animation.AbstractMovieWriter</node>
+            <node x="" y="">matplotlib.mathtext.MathtextBackendPdf</node>
+            <node x="" y="">matplotlib.mathtext.Vlist</node>
+            <node x="" y="">matplotlib.collections.PolyCollection</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3cairo.FigureManagerGTK3Cairo</node>
+            <node x="" y="">matplotlib.ticker.LogitFormatter</node>
+            <node x="" y="">matplotlib.cbook.Grouper</node>
+            <node x="" y="">matplotlib.testing.jpl_units.StrConverter.StrConverter</node>
+            <node x="" y="">matplotlib.axis.Tick</node>
+            <node x="" y="">matplotlib.mathtext.AutoHeightChar</node>
+            <node x="" y="">matplotlib.hatch.Circles</node>
+            <node x="" y="">matplotlib.ticker.SymmetricalLogLocator</node>
+            <node x="" y="">matplotlib.collections.PathCollection</node>
+            <node x="" y="">matplotlib.backends.backend_pgf.LatexError</node>
+            <node x="" y="">matplotlib.backend_tools.ToolQuitAll</node>
+            <node x="" y="">matplotlib.backend_tools.ToolQuit</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.FileChooserDialog</node>
+            <node x="" y="">typing.MutableSequence</node>
+            <node x="" y="">matplotlib.lines.Line2D</node>
+            <node x="" y="">matplotlib.mathtext.STIXSansFontConstants</node>
+            <node x="" y="">matplotlib.testing.decorators.CleanupTestCase</node>
+            <node x="" y="">UserWarning</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerNpoints</node>
+            <node x="" y="">matplotlib.backends.backend_webagg.FigureCanvasWebAgg</node>
+            <node x="" y="">matplotlib.projections.polar.PolarTransform</node>
+            <node x="" y="">matplotlib.mathtext.BakomaFonts</node>
+            <node x="" y="">matplotlib.testing.jpl_units.Duration.Duration</node>
+            <node x="" y="">matplotlib.streamplot.Grid</node>
+            <node x="" y="">matplotlib.mathtext.MathtextBackendSvg</node>
+            <node x="" y="">matplotlib.widgets.Button</node>
+            <node x="" y="">matplotlib.animation.ImageMagickWriter</node>
+            <node x="" y="">matplotlib.dviread.DviFont</node>
+            <node x="" y="">matplotlib.dates.DateFormatter</node>
+            <node x="" y="">matplotlib.scale.NaturalLogTransform</node>
+            <node x="" y="">matplotlib.colors.ColorConverter</node>
+            <node x="" y="">tuple</node>
+            <node x="" y="">matplotlib.ticker.FixedLocator</node>
+            <node x="" y="">matplotlib.mathtext.VCentered</node>
+            <node x="" y="">matplotlib.contour.ContourSet</node>
+            <node x="" y="">matplotlib.ticker.ScalarFormatter</node>
+            <node x="" y="">matplotlib.mathtext.STIXFontConstants</node>
+            <node x="" y="">matplotlib.backends._backend_tk.SaveFigureTk</node>
+            <node x="" y="">matplotlib.backend_tools.ToolHome</node>
+            <node x="" y="">matplotlib.patches.Polygon</node>
+            <node x="" y="">matplotlib.collections.CircleCollection</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.RubberbandQt</node>
+            <node x="" y="">typing.Mapping</node>
+            <node x="" y="">matplotlib.patches.Rectangle</node>
+            <node x="" y="">matplotlib.figure.Figure</node>
+            <node x="" y="">matplotlib.mathtext.Ship</node>
+            <node x="" y="">matplotlib.backends.qt_editor.formlayout.FontLayout</node>
+            <node x="" y="">matplotlib.backends.backend_wx.FigureFrameWx</node>
+            <node x="" y="">matplotlib.dates.YearLocator</node>
+            <node x="" y="">matplotlib.backend_bases.CloseEvent</node>
+            <node x="" y="">matplotlib.widgets.LassoSelector</node>
+            <node x="" y="">matplotlib.hatch.NorthEastHatch</node>
+            <node x="" y="">matplotlib.backends.backend_wx.ToolbarWx</node>
+            <node x="" y="">matplotlib.blocking_input.BlockingMouseInput</node>
+            <node x="" y="">matplotlib.backends.backend_wx.SubplotToolWX</node>
+            <node x="" y="">matplotlib.streamplot.InvalidIndexError</node>
+            <node x="" y="">matplotlib.scale.InvertedLogTransform</node>
+            <node x="" y="">matplotlib.ticker.Locator</node>
+            <node x="" y="">matplotlib.backends.backend_wx.TimerWx</node>
+            <node x="" y="">matplotlib.streamplot.StreamMask</node>
+            <node x="" y="">matplotlib.ticker._Edge_integer</node>
+            <node x="" y="">matplotlib.tri.triinterpolate._DOF_estimator</node>
+            <node x="" y="">matplotlib._layoutbox.LayoutBox</node>
+            <node x="" y="">matplotlib.mathtext.List</node>
+            <node x="" y="">matplotlib.projections.polar.ThetaLocator</node>
+            <node x="" y="">matplotlib.tri.tricontour.TriContourSet</node>
+            <node x="" y="">matplotlib.dviread.Vf</node>
+            <node x="" y="">matplotlib.scale.LogisticTransform</node>
+            <node x="" y="">matplotlib.widgets.SubplotTool</node>
+            <node x="" y="">matplotlib.sphinxext.plot_directive.PlotError</node>
+            <node x="" y="">matplotlib.patches.Arc</node>
+            <node x="" y="">matplotlib.backend_tools.ToolCopyToClipboardBase</node>
+            <node x="" y="">matplotlib.backends.backend_wx.StatusBarWx</node>
+            <node x="" y="">AssertionError</node>
+            <node x="" y="">matplotlib.projections.polar.RadialLocator</node>
+            <node x="" y="">matplotlib.cbook._StrongRef</node>
+            <node x="" y="">matplotlib.backends.backend_pdf.RendererPdf</node>
+            <node x="" y="">matplotlib.axes._base._process_plot_var_args</node>
+            <node x="" y="">matplotlib.markers.MarkerStyle</node>
+            <node x="" y="">tornado.web.Application</node>
+            <node x="" y="">matplotlib.legend.Legend</node>
+            <node x="" y="">matplotlib.colors.NoNorm</node>
+            <node x="" y="">tornado.routing.ReversibleRouter</node>
+            <node x="" y="">matplotlib.ticker.IndexFormatter</node>
+            <node x="" y="">matplotlib.backends.backend_wx.SetCursorWx</node>
+            <node x="" y="">matplotlib.backend_tools.Cursors</node>
+            <node x="" y="">matplotlib.collections.BrokenBarHCollection</node>
+            <node x="" y="">matplotlib.image.FigureImage</node>
+            <node x="" y="">matplotlib.projections.polar.PolarAffine</node>
+            <node x="" y="">matplotlib.axis.Ticker</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.ConfigureSubplotsGTK3</node>
+            <node x="" y="">matplotlib.backends.backend_qt4agg._BackendQT4Agg</node>
+            <node x="" y="">matplotlib.offsetbox.TextArea</node>
+            <node x="" y="">matplotlib.docstring.Substitution</node>
+            <node x="" y="">matplotlib.testing.jpl_units.Epoch.Epoch</node>
+            <node x="" y="">matplotlib.scale.ScaleBase</node>
+            <node x="" y="">matplotlib.textpath.TextToPath</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.NavigationToolbar2GTK3</node>
+            <node x="" y="">matplotlib.backends.backend_nbagg.FigureCanvasNbAgg</node>
+            <node x="" y="">matplotlib.dates.strpdate2num</node>
+            <node x="" y="">matplotlib.image.PcolorImage</node>
+            <node x="" y="">matplotlib.mathtext.Parser</node>
+            <node x="" y="">matplotlib.mathtext.Node</node>
+            <node x="" y="">matplotlib.backends.backend_webagg_core.TimerTornado</node>
+            <node x="" y="">matplotlib.widgets.AxesWidget</node>
+            <node x="" y="">matplotlib.projections.polar._ThetaShift</node>
+            <node x="" y="">matplotlib.backend_tools.ZoomPanBase</node>
+            <node x="" y="">matplotlib.animation.FileMovieWriter</node>
+            <node x="" y="">matplotlib.colors._ColorMapping</node>
+            <node x="" y="">matplotlib.lines.VertexSelector</node>
+            <node x="" y="">matplotlib.widgets.PolygonSelector</node>
+            <node x="" y="">matplotlib.patheffects.AbstractPathEffect</node>
+            <node x="" y="">matplotlib.tri.trirefine.UniformTriRefiner</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.ToolbarGTK3</node>
+            <node x="" y="">matplotlib.dates.DateConverter</node>
+            <node x="" y="">matplotlib.backends.backend_wx.RubberbandWx</node>
+            <node x="" y="">matplotlib.contour.ContourLabeler</node>
+            <node x="" y="">matplotlib.backends.backend_macosx.TimerMac</node>
+            <node x="" y="">matplotlib.backend_tools.ToolEnableAllNavigation</node>
+            <node x="" y="">matplotlib.docstring.Appender</node>
+            <node x="" y="">matplotlib.ticker.LogLocator</node>
+            <node x="" y="">matplotlib.units.Registry</node>
+            <node x="" y="">matplotlib.figure.SubplotParams</node>
+            <node x="" y="">matplotlib.backends.backend_svg.XMLWriter</node>
+            <node x="" y="">matplotlib.testing.compare._ConverterError</node>
+            <node x="" y="">QHBoxLayout</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.MainWindow</node>
+            <node x="" y="">matplotlib.dates.bytespdate2num</node>
+            <node x="" y="">matplotlib.backends.backend_macosx._BackendMac</node>
+            <node x="" y="">matplotlib.collections.PatchCollection</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3agg._BackendGTK3Cairo</node>
+            <node x="" y="">matplotlib.colorbar._ColorbarAutoLocator</node>
+            <node x="" y="">matplotlib.backend_tools.ToolEnableNavigation</node>
+            <node x="" y="">matplotlib.offsetbox.DrawingArea</node>
+            <node x="" y="">matplotlib.mathtext.Fil</node>
+            <node x="" y="">matplotlib.transforms.BboxTransformTo</node>
+            <node x="" y="">matplotlib.mlab.FormatFormatStr</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.ConfigureSubplotsQt</node>
+            <node x="" y="">matplotlib.scale.LinearScale</node>
+            <node x="" y="">matplotlib.tri.triinterpolate.TriInterpolator</node>
+            <node x="" y="">matplotlib.backends.backend_mixed.MixedModeRenderer</node>
+            <node x="" y="">matplotlib.backends.backend_template.FigureManagerTemplate</node>
+            <node x="" y="">matplotlib.backends._backend_tk.ConfigureSubplotsTk</node>
+            <node x="" y="">matplotlib.backend_tools._ToolGridBase</node>
+            <node x="" y="">matplotlib.projections.polar.InvertedPolarTransform</node>
+            <node x="" y="">matplotlib.mlab.PCA</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.TimerGTK3</node>
+            <node x="" y="">matplotlib.ticker._DummyAxis</node>
+            <node x="" y="">matplotlib.mathtext.DejaVuSansFonts</node>
+            <node x="" y="">matplotlib.streamplot.TerminateTrajectory</node>
+            <node x="" y="">matplotlib.backends.backend_pgf.PdfPages</node>
+            <node x="" y="">matplotlib.axis._LazyTickList</node>
+            <node x="" y="">matplotlib.transforms.BlendedAffine2D</node>
+            <node x="" y="">matplotlib.backends.backend_wxcairo.FigureFrameWxCairo</node>
+            <node x="" y="">matplotlib.colorbar.Colorbar</node>
+            <node x="" y="">matplotlib.projections.polar._WedgeBbox</node>
+            <node x="" y="">matplotlib.tri.triinterpolate._DOF_estimator_user</node>
+            <node x="" y="">matplotlib.backends.backend_agg.FigureCanvasAgg</node>
+            <node x="" y="">matplotlib.mathtext.MathTextParser</node>
+            <node x="" y="">matplotlib.mathtext.MathtextBackendAgg</node>
+            <node x="" y="">matplotlib.animation.FFMpegWriter</node>
+            <node x="" y="">matplotlib.testing.decorators.ImageComparisonTest</node>
+            <node x="" y="">matplotlib.backend_tools.ToolForward</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3._BackendGTK3</node>
+            <node x="" y="">matplotlib.animation.FFMpegFileWriter</node>
+            <node x="" y="">Printout</node>
+            <node x="" y="">matplotlib.backends.backend_webagg_core._BackendWebAggCoreAgg</node>
+            <node x="" y="">BaseException</node>
+            <node x="" y="">matplotlib.tri.triangulation.Triangulation</node>
+            <node x="" y="">matplotlib.animation.Animation</node>
+            <node x="" y="">matplotlib.widgets.RectangleSelector</node>
+            <node x="" y="">matplotlib.backends.backend_tkcairo.FigureCanvasTkCairo</node>
+            <node x="" y="">matplotlib.hatch.HorizontalHatch</node>
+            <node x="" y="">matplotlib.backends.backend_wxcairo.FigureCanvasWxCairo</node>
+            <node x="" y="">matplotlib.animation.FuncAnimation</node>
+            <node x="" y="">matplotlib.scale.LogScale</node>
+            <node x="" y="">matplotlib.dates.rrulewrapper</node>
+            <node x="" y="">matplotlib.colors.Normalize</node>
+            <node x="" y="">matplotlib.widgets.MultiCursor</node>
+            <node x="" y="">matplotlib.mlab.FormatInt</node>
+            <node x="" y="">tornado.routing.Router</node>
+            <node x="" y="">matplotlib.rcsetup.ValidateInterval</node>
+            <node x="" y="">matplotlib.cbook.Stack</node>
+            <node x="" y="">matplotlib.transforms.Affine2DBase</node>
+            <node x="" y="">matplotlib.backend_tools.ToolHelpBase</node>
+            <node x="" y="">matplotlib.backends.backend_nbagg.FigureManagerNbAgg</node>
+            <node x="" y="">matplotlib.backends._backend_tk.RubberbandTk</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3agg.FigureCanvasGTK3Agg</node>
+            <node x="" y="">QToolBar</node>
+            <node x="" y="">matplotlib.axis.XTick</node>
+            <node x="" y="">matplotlib.ticker.PercentFormatter</node>
+            <node x="" y="">matplotlib.tri.triinterpolate.CubicTriInterpolator</node>
+            <node x="" y="">matplotlib.font_manager.FontEntry</node>
+            <node x="" y="">matplotlib.projections.geo.GeoAxes</node>
+            <node x="" y="">FigureCanvas</node>
+            <node x="" y="">matplotlib.patheffects.Normal</node>
+            <node x="" y="">matplotlib.cbook.maxdict</node>
+            <node x="" y="">matplotlib.transforms.BboxTransformFrom</node>
+            <node x="" y="">matplotlib.backends._backend_tk.NavigationToolbar2Tk</node>
+            <node x="" y="">matplotlib.projections.polar.PolarAxes</node>
+            <node x="" y="">matplotlib.animation.AVConvWriter</node>
+            <node x="" y="">matplotlib.colors.LogNorm</node>
+            <node x="" y="">matplotlib.animation.TimedAnimation</node>
+            <node x="" y="">matplotlib.hatch.Stars</node>
+            <node x="" y="">matplotlib.backend_managers.ToolManagerMessageEvent</node>
+            <node x="" y="">matplotlib.container.ErrorbarContainer</node>
+            <node x="" y="">matplotlib.textpath.TextPath</node>
+            <node x="" y="">matplotlib.backend_bases.FigureManagerBase</node>
+            <node x="" y="">matplotlib.mathtext.Fill</node>
+            <node x="" y="">matplotlib.mathtext.DejaVuSansFontConstants</node>
+            <node x="" y="">matplotlib.mathtext.UnicodeFonts</node>
+            <node x="" y="">StatusBar</node>
+            <node x="" y="">abc.ABC</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.HelpGTK3</node>
+            <node x="" y="">matplotlib.table.Cell</node>
+            <node x="" y="">matplotlib.mathtext.TruetypeFonts</node>
+            <node x="" y="">matplotlib.backends.backend_qt5cairo._BackendQT5Cairo</node>
+            <node x="" y="">matplotlib.backends.backend_wx.MenuButtonWx</node>
+            <node x="" y="">matplotlib.legend.DraggableLegend</node>
+            <node x="" y="">matplotlib.backends.backend_ps.FigureCanvasPS</node>
+            <node x="" y="">matplotlib.dates.HourLocator</node>
+            <node x="" y="">matplotlib.scale.LogitScale</node>
+            <node x="" y="">matplotlib.projections.polar.ThetaTick</node>
+            <node x="" y="">matplotlib.cbook.deprecation.MatplotlibDeprecationWarning</node>
+            <node x="" y="">matplotlib.dates.MinuteLocator</node>
+            <node x="" y="">tkinter.BaseWidget</node>
+            <node x="" y="">matplotlib.colors.LinearSegmentedColormap</node>
+            <node x="" y="">matplotlib.backend_bases.DrawEvent</node>
+            <node x="" y="">matplotlib.mathtext.NegFill</node>
+            <node x="" y="">matplotlib.mathtext.NegFil</node>
+            <node x="" y="">matplotlib.backend_tools.SaveFigureBase</node>
+            <node x="" y="">matplotlib.backend_bases.RendererBase</node>
+            <node x="" y="">matplotlib.dates.AutoDateLocator</node>
+            <node x="" y="">matplotlib.mathtext.Vbox</node>
+            <node x="" y="">matplotlib.testing.compare._Converter</node>
+            <node x="" y="">tkinter.Misc</node>
+            <node x="" y="">matplotlib.text.TextWithDash</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerStem</node>
+            <node x="" y="">matplotlib.animation.AVConvBase</node>
+            <node x="" y="">matplotlib.patches.RegularPolygon</node>
+            <node x="" y="">matplotlib.backend_tools.ToolMinorGrid</node>
+            <node x="" y="">matplotlib.colors.BoundaryNorm</node>
+            <node x="" y="">matplotlib.patches.Ellipse</node>
+            <node x="" y="">matplotlib.backends.backend_tkagg.FigureCanvasTkAgg</node>
+            <node x="" y="">matplotlib.mlab.FormatDatetime</node>
+            <node x="" y="">matplotlib.font_manager.JSONEncoder</node>
+            <node x="" y="">matplotlib.dates.DayLocator</node>
+            <node x="" y="">QPushButton</node>
+            <node x="" y="">matplotlib.scale.Log2Transform</node>
+            <node x="" y="">Statusbar</node>
+            <node x="" y="">matplotlib.tri.triinterpolate._ReducedHCT_Element</node>
+            <node x="" y="">matplotlib.offsetbox.AnchoredOffsetbox</node>
+            <node x="" y="">matplotlib.mathtext.MathtextBackendCairo</node>
+            <node x="" y="">matplotlib.backend_bases.FigureCanvasBase</node>
+            <node x="" y="">matplotlib.axes._subplots.SubplotBase</node>
+            <node x="" y="">matplotlib.projections.geo.LambertAxes</node>
+            <node x="" y="">matplotlib.patheffects.withStroke</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.HelpQt</node>
+            <node x="" y="">matplotlib.scale.InvertedNaturalLogTransform</node>
+            <node x="" y="">matplotlib.backends.backend_nbagg._BackendNbAgg</node>
+            <node x="" y="">matplotlib.transforms.BboxTransform</node>
+            <node x="" y="">matplotlib.cbook.IgnoredKeywordWarning</node>
+            <node x="" y="">matplotlib.legend_handler.HandlerLineCollection</node>
+            <node x="" y="">matplotlib.scale.SymmetricalLogTransform</node>
+            <node x="" y="">matplotlib.cbook.Bunch</node>
+            <node x="" y="">matplotlib.transforms.ScaledTranslation</node>
+            <node x="" y="">matplotlib.backends.backend_qt5.SetCursorQt</node>
+            <node x="" y="">matplotlib.backends._backend_tk.SetCursorTk</node>
+            <node x="" y="">matplotlib.tri.trifinder.TriFinder</node>
+            <node x="" y="">matplotlib.font_manager.FontProperties</node>
+            <node x="" y="">matplotlib.mathtext.DejaVuSerifFontConstants</node>
+            <node x="" y="">matplotlib.units.AxisInfo</node>
+            <node x="" y="">matplotlib.backends.backend_gtk3.SaveFigureGTK3</node>
+            <node x="" y="">matplotlib.tri.triinterpolate._DOF_estimator_min_E</node>
+            <node x="" y="">matplotlib.mathtext.Hrule</node>
+            <node x="" y="">matplotlib.mathtext.Hbox</node>
+            <node x="" y="">matplotlib.streamplot.StreamplotSet</node>
+            <node x="" y="">matplotlib.patches.ArrowStyle</node>
+            <node x="" y="">matplotlib.patches.Wedge</node>
+            <node x="" y="">matplotlib.projections.polar.ThetaFormatter</node>
+            <node x="" y="">matplotlib.gridspec.GridSpecFromSubplotSpec</node>
+            <node x="" y="">matplotlib.scale.LogitTransform</node>
+            <node x="" y="">matplotlib.ticker.LinearLocator</node>
+            <node x="" y="">matplotlib.backend_tools.ToolGrid</node>
+            <node x="" y="">matplotlib.offsetbox.AnnotationBbox</node>
+            <node x="" y="">typing._Collection</node>
+            <node x="" y="">matplotlib.dviread.PsfontsMap</node>
+            <node x="" y="">matplotlib.transforms.CompositeAffine2D</node>
+            <node x="" y="">unittest.TestCase</node>
+            <node x="" y="">matplotlib.backends.backend_pdf.PdfPages</node>
+            <node x="" y="">matplotlib.ticker.AutoLocator</node>
+            <node x="" y="">matplotlib.ticker.LogitLocator</node>
+            <node x="" y="">DrawingArea</node>
+            <node x="" y="">matplotlib.transforms.IdentityTransform</node>
+            <node x="" y="">ToolBar</node>
+            <node x="" y="">matplotlib.backend_tools.ToolBack</node>
+            <node x="" y="">matplotlib.ticker.LogFormatterExponent</node>
+            <node x="" y="">QLabel</node>
+            <node x="" y="">matplotlib.transforms.BboxBase</node>
+            <node x="" y="">matplotlib.backend_bases.LocationEvent</node>
+            <node x="" y="">matplotlib.ticker.IndexLocator</node>
+            <node x="" y="">matplotlib.ticker.FuncFormatter</node>
+            <node x="" y="">matplotlib.projections.polar.RadialAxis</node>
+            <node x="" y="">matplotlib.mlab.FormatMillions</node>
+            <node x="" y="">matplotlib.dviread.Dvi</node>
+            <node x="" y="">RuntimeError</node>
+            <node x="" y="">Frame</node>
+            <node x="" y="">matplotlib.sankey.Sankey</node>
+            <node x="" y="">matplotlib.backends.backend_svg.FigureCanvasSVG</node>
+            <node x="" y="">matplotlib.afm.AFM</node>
+            <node x="" y="">matplotlib.tri.trifinder.TrapezoidMapTriFinder</node>
+            <node x="" y="">matplotlib.backends.backend_webagg._BackendWebAgg</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.5000000000000001" x="65292.0" y="1299.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#317#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="229" column="16" lean-forward="true" selection-start-line="229" selection-start-column="16" selection-end-line="229" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/artist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-741">
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.HighSchoolMath/02. High-School-Maths-Exercise/High-School Maths Exercise.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/numpy/linalg/linalg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="327" column="4" selection-start-line="327" selection-start-column="4" selection-end-line="327" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/numpy/random/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="145" column="7" selection-start-line="145" selection-start-column="7" selection-end-line="145" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/numpy/lib/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-318">
+          <caret line="4430" column="4" selection-start-line="4430" selection-start-column="4" selection-end-line="4430" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1024463366/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="196" column="4" selection-start-line="196" selection-start-column="4" selection-end-line="196" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="1226" column="43" selection-start-line="1226" selection-start-column="33" selection-end-line="1226" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/mpl_toolkits/axes_grid1/axes_grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="354" column="40" lean-forward="true" selection-start-line="354" selection-start-column="40" selection-end-line="354" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+  </component>
+</project>

@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.transforms import Affine2D
 
+
 def visualize_transformation(matrix, plot_title):
     fig = plt.figure()
     plt.axis("equal")

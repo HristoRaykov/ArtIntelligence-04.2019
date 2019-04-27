@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fb317cd6-13f5-4a4b-9bae-235f7025bb17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.HighSchoolMath/02. High-School-Maths-Exercise/High-School Maths Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01.HighSchoolMath/02. High-School-Maths-Exercise/High-School Maths Exercise.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/.ipynb_checkpoints/Linear Algebra Exercise-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/.ipynb_checkpoints/Linear Algebra Exercise-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +29,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -66,7 +68,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,18 +78,19 @@
             <path>
               <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
-              <item name="02.BasicAlgebra" type="462c0819:PsiDirectoryNode" />
+              <item name="03.LinearAlgebra" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
-              <item name="02.BasicAlgebra" type="462c0819:PsiDirectoryNode" />
-              <item name="04. Basic-Algebra-Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="03.LinearAlgebra" type="462c0819:PsiDirectoryNode" />
+              <item name="06. Linear-Algebra-Exercise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -99,7 +101,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -148,7 +150,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -170,7 +172,10 @@
       <workItem from="1556192411495" duration="23751000" />
       <workItem from="1556265771369" duration="5853000" />
       <workItem from="1556282646919" duration="8343000" />
-      <workItem from="1556306164801" duration="7781000" />
+      <workItem from="1556306164801" duration="8141000" />
+      <workItem from="1556350838888" duration="6829000" />
+      <workItem from="1556369826807" duration="556000" />
+      <workItem from="1556387189184" duration="11733000" />
     </task>
     <task id="LOCAL-00001" summary="Linear Algebra exercise solutions.">
       <created>1556230237958</created>
@@ -179,11 +184,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556230237958</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercise solutions added.">
+      <created>1556314198233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556314198233</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101782000" />
+    <option name="totallyTimeSpent" value="121260000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -202,16 +214,16 @@
       <window_info content_ui="combo" id="Project" order="1" weight="0.109391674" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Jupyter" order="1" sideWeight="0.49893278" weight="0.34558824" />
+      <window_info anchor="bottom" id="Jupyter" order="1" sideWeight="0.49839914" weight="0.34558824" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4994664" weight="0.32878152" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5010672" side_tool="true" weight="0.34558824" />
-      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32983193" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50160086" side_tool="true" weight="0.34558824" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49893278" weight="0.32983193" />
       <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.49839914" weight="0.32878152" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
       <window_info anchor="bottom" id="Run" order="9" weight="0.32878152" />
-      <window_info active="true" anchor="bottom" id="Debug" order="10" sideWeight="0.49893278" visible="true" weight="0.41491598" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.49893278" weight="0.38235295" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" weight="0.32878152" />
@@ -229,7 +241,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Linear Algebra exercise solutions." />
-    <option name="LAST_COMMIT_MESSAGE" value="Linear Algebra exercise solutions." />
+    <MESSAGE value="Exercise solutions added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise solutions added." />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Basic Algebra Exercise">
+        <watch expression="factor_average_times" />
+        <watch expression="multiplication_average_times" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MathConcepts$perspective_correction.coverage" NAME="perspective-correction Coverage Results" MODIFIED="1556267609512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise" />
@@ -1216,13 +1237,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/turtle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-76458" />
       </provider>
+    </entry>
+    <entry file="file:///run/user/1000/snap.pycharm-professional/jupyter/nbserver-6336-open.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="525" column="8" selection-start-line="525" selection-start-column="8" selection-end-line="525" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="184" column="4" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1024463366/Crypto/Util/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1024463366/Crypto/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fb317cd6-13f5-4a4b-9bae-235f7025bb17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +27,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb">
+        <entry file="file://$PROJECT_DIR$/04.Calculus/08. Calculus-Exercise/Calculus Exercise.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -57,10 +51,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1398" />
+    <option name="x" value="1402" />
     <option name="y" value="71" />
-    <option name="width" value="1326" />
-    <option name="height" value="726" />
+    <option name="width" value="1316" />
+    <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -75,17 +69,6 @@
               <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
-              <item name="03.LinearAlgebra" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
-              <item name="03.LinearAlgebra" type="462c0819:PsiDirectoryNode" />
-              <item name="06. Linear-Algebra-Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -98,7 +81,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01.HighSchoolMath" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
@@ -175,7 +158,10 @@
       <workItem from="1556306164801" duration="8141000" />
       <workItem from="1556350838888" duration="6829000" />
       <workItem from="1556369826807" duration="556000" />
-      <workItem from="1556387189184" duration="11733000" />
+      <workItem from="1556387189184" duration="11876000" />
+      <workItem from="1556639144392" duration="1203000" />
+      <workItem from="1556648775612" duration="2598000" />
+      <workItem from="1556783920097" duration="9108000" />
     </task>
     <task id="LOCAL-00001" summary="Linear Algebra exercise solutions.">
       <created>1556230237958</created>
@@ -195,7 +181,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121260000" />
+    <option name="totallyTimeSpent" value="134312000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -282,13 +268,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01.HighSchoolMath/02. High-School-Maths-Exercise/math.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/axis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-        </state>
-      </provider>
     </entry>
     <entry file="uml://Python/#/home/hristocr/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib">
       <provider selected="true" editor-type-id="UmlEditorProvider">
@@ -1077,13 +1056,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/numpy/lib/function_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-318">
-          <caret line="4430" column="4" selection-start-line="4430" selection-start-column="4" selection-end-line="4430" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/mpl_toolkits/axes_grid1/axes_grid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
@@ -1195,13 +1167,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-205">
-          <caret line="1097" column="4" selection-start-line="1097" selection-start-column="4" selection-end-line="1097" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/book1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1263,10 +1228,34 @@
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1024463366/Crypto/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb">
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/numpy/lib/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="1906" column="28" selection-start-line="1906" selection-start-column="28" selection-end-line="1906" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="3816" column="4" selection-start-line="3816" selection-start-column="4" selection-end-line="3816" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/axis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="1861" column="8" selection-start-line="1861" selection-start-column="8" selection-end-line="1861" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.Calculus/08. Calculus-Exercise/Calculus Exercise.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>

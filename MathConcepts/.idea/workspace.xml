@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fb317cd6-13f5-4a4b-9bae-235f7025bb17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +28,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04.Calculus/08. Calculus-Exercise/Calculus Exercise.ipynb">
+        <entry file="file://$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Probability and Combinatorics Exercise.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -51,17 +62,20 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1402" />
+    <option name="x" value="1406" />
     <option name="y" value="71" />
-    <option name="width" value="1316" />
-    <option name="height" value="725" />
+    <option name="width" value="1306" />
+    <option name="height" value="724" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,25 +83,42 @@
               <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="01.HighSchoolMath" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="04.Calculus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="04.Calculus" type="462c0819:PsiDirectoryNode" />
+              <item name="08. Calculus-Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Course" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/01.HighSchoolMath" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/01.HighSchoolMath" />
       <recent name="$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise" />
     </key>
   </component>
@@ -161,7 +192,11 @@
       <workItem from="1556387189184" duration="11876000" />
       <workItem from="1556639144392" duration="1203000" />
       <workItem from="1556648775612" duration="2598000" />
-      <workItem from="1556783920097" duration="9108000" />
+      <workItem from="1556783920097" duration="11392000" />
+      <workItem from="1557081496425" duration="4216000" />
+      <workItem from="1557086487828" duration="87000" />
+      <workItem from="1557127985065" duration="1048000" />
+      <workItem from="1557159282678" duration="4165000" />
     </task>
     <task id="LOCAL-00001" summary="Linear Algebra exercise solutions.">
       <created>1556230237958</created>
@@ -181,7 +216,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134312000" />
+    <option name="totallyTimeSpent" value="146112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,7 +232,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.109391674" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.1638207" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Jupyter" order="1" sideWeight="0.49839914" weight="0.34558824" />
@@ -1228,12 +1263,6 @@
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1024463366/Crypto/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/numpy/lib/function_base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -1255,7 +1284,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01.HighSchoolMath/Calculus Exercise.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Calculus Exercise.ipynb" />
     <entry file="file://$PROJECT_DIR$/04.Calculus/08. Calculus-Exercise/Calculus Exercise.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.LinearAlgebra/06. Linear-Algebra-Exercise/Linear Algebra Exercise.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Probability and Combinatorics Exercise.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.BasicAlgebra/04. Basic-Algebra-Exercise/Basic Algebra Exercise.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>

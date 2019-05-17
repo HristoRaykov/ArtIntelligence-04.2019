@@ -3,42 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fb317cd6-13f5-4a4b-9bae-235f7025bb17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.ProbabilityAndCombinatorics/10. Probability-and-Combinatorics-Exercise/.ipynb_checkpoints/Probability and Combinatorics Exercise-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05.ProbabilityAndCombinatorics/10. Probability-and-Combinatorics-Exercise/.ipynb_checkpoints/Probability and Combinatorics Exercise-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.ProbabilityAndCombinatorics/10. Probability-and-Combinatorics-Exercise/Probability and Combinatorics Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05.ProbabilityAndCombinatorics/10. Probability-and-Combinatorics-Exercise/Probability and Combinatorics Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11. Statistics.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statistics Exercise/.ipynb_checkpoints/Statistics Exercise-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statistics Exercise/Statistics Exercise.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statistics Exercise/alcohol_tobacco.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statistics Exercise/budget.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statistics Exercise/digits.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statistics Exercise/silica.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-BoldItalic_0.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-ExtraLightItalic_0.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-SemiBold_0.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/Montserrat-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/OpenSans-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/OpenSans-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/OpenSans-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/OpenSans-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/OpenSans-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/OpenSans-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/OpenSans-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/OpenSans-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/OpenSans-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides-fonts/OpenSans-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06.Statistics/12. Statistics-Exercise/Statistics Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/06.Statistics/12. Statistics-Exercise/Statistics Exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/multifactor_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-info" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,10 +65,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1905" />
-    <option name="y" value="323" />
-    <option name="width" value="888" />
-    <option name="height" value="491" />
+    <option name="x" value="1890" />
+    <option name="y" value="122" />
+    <option name="width" value="884" />
+    <option name="height" value="497" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -297,7 +264,9 @@
       <workItem from="1557929314996" duration="289000" />
       <workItem from="1557929991140" duration="347000" />
       <workItem from="1557930867681" duration="1870000" />
-      <workItem from="1558090374574" duration="633000" />
+      <workItem from="1558090374574" duration="1393000" />
+      <workItem from="1558121084217" duration="345000" />
+      <workItem from="1558121785247" duration="5544000" />
     </task>
     <task id="LOCAL-00001" summary="Linear Algebra exercise solutions.">
       <created>1556230237958</created>
@@ -317,7 +286,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209947000" />
+    <option name="totallyTimeSpent" value="216596000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,9 +305,9 @@
       <window_info content_ui="combo" id="Project" order="1" weight="0.13500534" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Jupyter" order="1" sideWeight="0.49839914" weight="0.34558824" />
+      <window_info anchor="bottom" id="Jupyter" order="1" sideWeight="0.49839914" weight="0.34453782" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4994664" weight="0.32878152" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50160086" side_tool="true" weight="0.34558824" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50160086" side_tool="true" weight="0.3442623" />
       <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49893278" weight="0.32983193" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
@@ -582,9 +551,7 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Probability and Combinatorics Exercise.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Statistics Exercise/Statistics Exercise.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Statistics Exercise/Statistics Exercise.ipynb" />
     <entry file="file://$PROJECT_DIR$/04.Calculus/08. Calculus-Exercise/Calculus Exercise.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
@@ -682,16 +649,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FinalProject/multifactor_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="112" column="41" lean-forward="true" selection-start-line="112" selection-start-column="41" selection-end-line="112" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/multifactor_model.py" />
     <entry file="file://$PROJECT_DIR$/FinalProject/MultiFactoModel.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>

@@ -8,14 +8,19 @@ import numpy as np
 from sklearn.metrics import r2_score
 import seaborn as sns
 
-TRAIN_DATA_COEFFICIENT = 0.75
+TRAIN_DATA_RATIO = 0.75
 AVERAGES_CALC_PERIOD = relativedelta(months=1)
 START_DATE = datetime.datetime(2018, 5, 13)
 
-PREM_DISC_ZSCORE_COL_NAME = "prem/disc z-score"
+DATE_COL_NAME = "date"
+PRICE_COL_NAME = "price"
 PRICE_RETURNS_COL_NAME = "return on price"
+NAV_COL_NAME = "nav"
 NAV_RETURNS_COL_NAME = "return on nav"
+PREM_DISC_COL_NAME = "prem/disc"
+PREM_DISC_ZSCORE_COL_NAME = "prem/disc z-score"
 
+DATA_FILE_POSTFIX = "_data.csv"
 BENCHMARK_INDEX_SOURCE = {"SPX": "spx_hist_prices.csv"}
 CEF_DATA_SOURCES = {"ADX": ["adx_hist_prices.csv", "adx_hist_navs.csv"],
                     "CII": ["cii_hist_prices.csv", "cii_hist_navs.csv"],
@@ -25,47 +30,48 @@ CEF_DATA_SOURCES = {"ADX": ["adx_hist_prices.csv", "adx_hist_navs.csv"],
 def read_cef_data(cef_symbol):
 	cef = pd.read_csv(CEF_DATA_SOURCES[cef_symbol][0])
 	cef = cef[["timestamp", "close"]]
-	cef.columns = ["date", "price"]
-	cef["nav"] = pd.read_csv(CEF_DATA_SOURCES[cef_symbol][1])["close"]
-	cef["date"] = pd.to_datetime(cef["date"])
-	cef = cef.sort_values(["date"])
+	cef.columns = [DATE_COL_NAME, PRICE_COL_NAME]
+	cef[NAV_COL_NAME] = pd.read_csv(CEF_DATA_SOURCES[cef_symbol][1])["close"]
+	cef[DATE_COL_NAME] = pd.to_datetime(cef[DATE_COL_NAME])
+	cef = cef.sort_values([DATE_COL_NAME])
 	return cef
 
 
 def read_index_data(index_symbol):
 	index = pd.read_csv(BENCHMARK_INDEX_SOURCE[index_symbol])
 	index = index[["timestamp", "close"]]
-	index.columns = ["date", "price"]
-	index["date"] = pd.to_datetime(index["date"])
-	index = index.sort_values(["date"])
+	index.columns = [DATE_COL_NAME, PRICE_COL_NAME]
+	index[DATE_COL_NAME] = pd.to_datetime(index[DATE_COL_NAME])
+	index = index.sort_values([DATE_COL_NAME])
 	return index
 
 
 def calculate_zscore(cef, period_start_date, period_end_date):
-	prem_discs = cef.loc[(cef["date"] >= period_start_date) & (cef["date"] <= period_end_date), "prem/disc"]
-	curr_prem_disc = cef.loc[cef["date"] == period_end_date, "prem/disc"].values[0]
+	prem_discs = cef.loc[
+		(cef[DATE_COL_NAME] >= period_start_date) & (cef[DATE_COL_NAME] <= period_end_date), PREM_DISC_COL_NAME]
+	curr_prem_disc = cef.loc[cef[DATE_COL_NAME] == period_end_date, PREM_DISC_COL_NAME].values[0]
 	average_prem_disc = prem_discs.mean()
 	std_prem_disc = prem_discs.std()
 	# cef.loc[cef["date"] == period_end_date, "nav mean"] = average_prem_disc
 	# cef.loc[cef["date"] == period_end_date, "nav std"] = std_prem_disc
-	cef.loc[cef["date"] == period_end_date, PREM_DISC_ZSCORE_COL_NAME] = (
-			                                                                     curr_prem_disc - average_prem_disc) / std_prem_disc
+	cef.loc[cef[DATE_COL_NAME] == period_end_date, PREM_DISC_ZSCORE_COL_NAME] = (
+			                                                                            curr_prem_disc - average_prem_disc) / std_prem_disc
 	return cef
 
 
 def calculate_price_return(cef, period_start_date, period_end_date):
-	base_price = cef.loc[cef["date"] == period_start_date, "price"].values[0]
-	curr_price = cef.loc[cef["date"] == period_end_date, "price"].values[0]
+	base_price = cef.loc[cef[DATE_COL_NAME] == period_start_date, PRICE_COL_NAME].values[0]
+	curr_price = cef.loc[cef[DATE_COL_NAME] == period_end_date, PRICE_COL_NAME].values[0]
 	price_return = (curr_price - base_price) / base_price * 100
-	cef.loc[cef["date"] == period_end_date, PRICE_RETURNS_COL_NAME] = price_return
+	cef.loc[cef[DATE_COL_NAME] == period_end_date, PRICE_RETURNS_COL_NAME] = price_return
 	return cef
 
 
 def calculate_nav_return(cef, period_start_date, period_end_date):
-	base_nav = cef.loc[cef["date"] == period_start_date, "nav"].values[0]
-	curr_nav = cef.loc[cef["date"] == period_end_date, "nav"].values[0]
+	base_nav = cef.loc[cef[DATE_COL_NAME] == period_start_date, NAV_COL_NAME].values[0]
+	curr_nav = cef.loc[cef[DATE_COL_NAME] == period_end_date, NAV_COL_NAME].values[0]
 	nav_return = (curr_nav - base_nav) / base_nav * 100
-	cef.loc[cef["date"] == period_end_date, NAV_RETURNS_COL_NAME] = nav_return
+	cef.loc[cef[DATE_COL_NAME] == period_end_date, NAV_RETURNS_COL_NAME] = nav_return
 	return cef
 
 
@@ -77,11 +83,11 @@ def find_valid_period_start_date(dates, date, period):
 
 
 def calculate_factors(cef, start_date, period):
-	cef = cef[(cef["date"] >= start_date - period)]
-	all_dates = cef["date"]
-	cef["prem/disc"] = (cef["price"] - cef["nav"]) / cef["nav"] * 100
+	cef = cef[(cef[DATE_COL_NAME] >= start_date - period)]
+	all_dates = cef[DATE_COL_NAME]
+	cef[PREM_DISC_COL_NAME] = (cef[PRICE_COL_NAME] - cef[NAV_COL_NAME]) / cef[NAV_COL_NAME] * 100
 	
-	dates = cef.loc[cef["date"] >= start_date, "date"]
+	dates = cef.loc[cef[DATE_COL_NAME] >= start_date, DATE_COL_NAME]
 	for date in dates:
 		period_start_date = find_valid_period_start_date(all_dates, date, period)
 		cef = calculate_price_return(cef, period_start_date, date)
@@ -94,10 +100,10 @@ def calculate_factors(cef, start_date, period):
 def calculate_cef_data(symbol, start_date, calc_period):
 	symbol_df = read_cef_data(symbol)
 	symbol_df = calculate_factors(symbol_df, start_date, calc_period)
-	symbol_df = symbol_df.loc[symbol_df["date"] >= start_date]
+	symbol_df = symbol_df.loc[symbol_df[DATE_COL_NAME] >= start_date]
 	symbol_df = symbol_df[
-		["date", PRICE_RETURNS_COL_NAME, NAV_RETURNS_COL_NAME, PREM_DISC_ZSCORE_COL_NAME]].reset_index(drop=True)
-	file_name = symbol.lower() + "_data.csv"
+		[DATE_COL_NAME, PRICE_RETURNS_COL_NAME, NAV_RETURNS_COL_NAME, PREM_DISC_ZSCORE_COL_NAME]].reset_index(drop=True)
+	file_name = symbol.lower() + DATA_FILE_POSTFIX
 	symbol_df.to_csv(file_name)
 
 
@@ -126,7 +132,7 @@ def analyze_regression(cef_train_data, cef_test_data, regressor_col_name, regres
 	
 	plt.scatter(regressand_predicted_test_data, regressand_test_data)
 	plt.show()
-	dates = cef_test_data["date"]
+	dates = cef_test_data[DATE_COL_NAME]
 	plt.bar(dates, predicted_actual_deltas)
 	plt.xticks(rotation=90)
 	plt.show()
@@ -146,7 +152,7 @@ def main():
 	# calculate_cef_data("ADX", START_DATE, AVERAGES_CALC_PERIOD)
 	
 	adx = pd.read_csv("adx_data.csv", index_col=0)
-	cef_train_data, cef_test_data = split_train_test_data(adx, TRAIN_DATA_COEFFICIENT)
+	cef_train_data, cef_test_data = split_train_test_data(adx, TRAIN_DATA_RATIO)
 	# print(cef_train_data.corr())
 	
 	# analyze_regression(cef_train_data, cef_test_data, PREM_DISC_ZSCORE_COL_NAME, PRICE_RETURNS_COL_NAME)

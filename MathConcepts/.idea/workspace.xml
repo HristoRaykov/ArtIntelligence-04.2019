@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fb317cd6-13f5-4a4b-9bae-235f7025bb17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.HighSchoolMath/02. High-School-Maths-Exercise/High-School Maths Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01.HighSchoolMath/02. High-School-Maths-Exercise/High-School Maths Exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.HypothesisTesting/14. Hypothesis-Testing-Exercise/.ipynb_checkpoints/Hypothesis Testing Exercise-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07.HypothesisTesting/14. Hypothesis-Testing-Exercise/.ipynb_checkpoints/Hypothesis Testing Exercise-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.HypothesisTesting/14. Hypothesis-Testing-Exercise/Hypothesis Testing Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07.HypothesisTesting/14. Hypothesis-Testing-Exercise/Hypothesis Testing Exercise.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,10 +66,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1374" />
-    <option name="width" value="1262" />
-    <option name="height" value="715" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1366" />
+    <option name="width" value="1887" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -78,8 +79,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,6 +112,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,7 +312,13 @@
       <workItem from="1558799462562" duration="147000" />
       <workItem from="1558894652150" duration="5040000" />
       <workItem from="1558902492975" duration="475000" />
-      <workItem from="1559035165124" duration="3590000" />
+      <workItem from="1559035165124" duration="4410000" />
+      <workItem from="1559048391517" duration="6469000" />
+      <workItem from="1559054983206" duration="932000" />
+      <workItem from="1559055999078" duration="635000" />
+      <workItem from="1559057105820" duration="966000" />
+      <workItem from="1559060756236" duration="3388000" />
+      <workItem from="1559073305578" duration="1144000" />
     </task>
     <task id="LOCAL-00001" summary="Linear Algebra exercise solutions.">
       <created>1556230237958</created>
@@ -338,7 +345,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301210000" />
+    <option name="totallyTimeSpent" value="315564000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,14 +357,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1362" y="0" width="1928" height="1084" extended-state="6" />
+    <frame x="1366" y="0" width="1887" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.13820705" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.12326574" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Jupyter" order="1" sideWeight="0.49839914" weight="0.3067227" />
+      <window_info anchor="bottom" id="Jupyter" order="1" sideWeight="0.49839914" weight="0.3048523" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4994664" weight="0.41491598" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50160086" side_tool="true" weight="0.3442623" />
       <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49893278" weight="0.32983193" />
@@ -447,19 +454,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/turtle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76458" />
-      </provider>
-    </entry>
-    <entry file="file:///run/user/1000/snap.pycharm-professional/jupyter/nbserver-6336-open.html" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="525" column="8" selection-start-line="525" selection-start-column="8" selection-end-line="525" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -610,13 +604,6 @@
     <entry file="file://$PROJECT_DIR$/FinalProject/adx_hist_navs.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="3099" column="59" lean-forward="true" selection-start-line="3099" selection-start-column="59" selection-end-line="3099" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/dateutil/relativedelta.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -642,13 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="1675" selection-start-line="1675" selection-end-line="1675" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/pandas/core/generic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="5066" selection-start-line="5066" selection-end-line="5066" />
         </state>
       </provider>
     </entry>
@@ -705,10 +685,45 @@
     <entry file="file://$PROJECT_DIR$/06.Statistics/12. Statistics-Exercise/Statistics Exercise.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="2817" column="23" lean-forward="true" selection-start-line="2817" selection-start-column="23" selection-end-line="2817" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/scipy/stats/stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4182" column="4" selection-start-line="4182" selection-start-column="4" selection-end-line="4182" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/pandas/io/parsers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2518">
-          <caret line="769" column="11" lean-forward="true" selection-start-line="769" selection-start-column="11" selection-end-line="769" selection-end-column="11" />
+        <state relative-caret-position="209">
+          <caret line="728" column="33" lean-forward="true" selection-start-line="728" selection-start-column="33" selection-end-line="728" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1406">
+          <caret line="7513" column="8" selection-start-line="7513" selection-start-column="8" selection-end-line="7513" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/pandas/core/reshape/pivot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="390" column="4" selection-start-line="390" selection-start-column="4" selection-end-line="390" selection-end-column="4" />
         </state>
       </provider>
     </entry>

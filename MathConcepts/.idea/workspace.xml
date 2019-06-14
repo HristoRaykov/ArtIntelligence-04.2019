@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fb317cd6-13f5-4a4b-9bae-235f7025bb17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07.HypothesisTesting/14. Hypothesis-Testing-Exercise/Hypothesis Testing Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07.HypothesisTesting/14. Hypothesis-Testing-Exercise/Hypothesis Testing Exercise.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1366" />
     <option name="width" value="1887" />
-    <option name="height" value="1080" />
+    <option name="height" value="1076" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -77,43 +76,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
-              <item name="06.Statistics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
-              <item name="06.Statistics" type="462c0819:PsiDirectoryNode" />
-              <item name="12. Statistics-Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
-              <item name="07.HypothesisTesting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MathConcepts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathConcepts" type="462c0819:PsiDirectoryNode" />
-              <item name="07.HypothesisTesting" type="462c0819:PsiDirectoryNode" />
-              <item name="14. Hypothesis-Testing-Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Course" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -319,7 +282,8 @@
       <workItem from="1559060756236" duration="3388000" />
       <workItem from="1559073305578" duration="1434000" />
       <workItem from="1559120511071" duration="2283000" />
-      <workItem from="1559122848501" duration="63000" />
+      <workItem from="1559122848501" duration="571000" />
+      <workItem from="1559161038319" duration="87000" />
     </task>
     <task id="LOCAL-00001" summary="Linear Algebra exercise solutions.">
       <created>1556230237958</created>
@@ -346,7 +310,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="318200000" />
+    <option name="totallyTimeSpent" value="318795000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,14 +322,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="0" width="1887" height="1080" extended-state="0" />
+    <frame x="1366" y="0" width="1887" height="1076" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" weight="0.12326574" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Jupyter" order="1" sideWeight="0.49839914" visible="true" weight="0.3048523" />
+      <window_info anchor="bottom" id="Jupyter" order="1" sideWeight="0.49839914" weight="0.3048523" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4994664" weight="0.33966243" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50160086" side_tool="true" weight="0.3442623" />
       <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49893278" weight="0.32983193" />

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc0d6fa5-2172-4172-a4e3-d1295cc712f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ArtificialIntelligence 04.2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ArtificialIntelligence 04.2019.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataScience/02.DataTidingAndCleaning/02. Data-Tidying-and-Cleaning-Lab/Data Tidying and Cleaning Lab.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScience/02.DataTidingAndCleaning/02. Data-Tidying-and-Cleaning-Lab/Data Tidying and Cleaning Lab.ipynb" afterDir="false" />
     </list>
@@ -39,11 +37,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1730" />
-    <option name="y" value="216" />
-    <option name="width" value="1262" />
-    <option name="height" value="715" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2000" />
+    <option name="y" value="43" />
+    <option name="width" value="1290" />
+    <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -85,15 +83,16 @@
       <workItem from="1560521885596" duration="478000" />
       <workItem from="1560845492701" duration="119000" />
       <workItem from="1560854380941" duration="184000" />
-      <workItem from="1560856788845" duration="5351000" />
+      <workItem from="1560856788845" duration="5429000" />
+      <workItem from="1560866064700" duration="1530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6132000" />
+    <option name="totallyTimeSpent" value="7740000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1362" y="0" width="1928" height="1084" extended-state="6" />
+    <frame x="2000" y="43" width="1290" height="1041" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.12219851" />
@@ -111,14 +110,14 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32983193" />
-      <window_info anchor="bottom" id="Jupyter" order="12" weight="0.32983193" />
+      <window_info anchor="bottom" id="Jupyter" order="12" weight="0.32893288" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="14" visible="true" weight="0.32983193" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.32983193" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.32977587" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.32977587" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.4935275" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">

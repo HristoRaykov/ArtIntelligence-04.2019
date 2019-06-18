@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc0d6fa5-2172-4172-a4e3-d1295cc712f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScience/02.DataTidingAndCleaning/02. Data-Tidying-and-Cleaning-Lab/Data Tidying and Cleaning Lab.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScience/02.DataTidingAndCleaning/02. Data-Tidying-and-Cleaning-Lab/Data Tidying and Cleaning Lab.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="bc0d6fa5-2172-4172-a4e3-d1295cc712f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,12 +81,12 @@
       <workItem from="1560845492701" duration="119000" />
       <workItem from="1560854380941" duration="184000" />
       <workItem from="1560856788845" duration="5429000" />
-      <workItem from="1560866064700" duration="1530000" />
+      <workItem from="1560866064700" duration="1585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7740000" />
+    <option name="totallyTimeSpent" value="7795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2000" y="43" width="1290" height="1041" extended-state="0" />
@@ -109,7 +106,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32983193" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32893288" />
       <window_info anchor="bottom" id="Jupyter" order="12" weight="0.32893288" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="14" weight="0.32983193" />

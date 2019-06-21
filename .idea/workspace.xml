@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc0d6fa5-2172-4172-a4e3-d1295cc712f2" name="Default Changelist" comment="" />
+    <list default="true" id="bc0d6fa5-2172-4172-a4e3-d1295cc712f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +27,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataScience/02.DataTidingAndCleaning/02. Data-Tidying-and-Cleaning-Lab/Data Tidying and Cleaning Lab.ipynb">
+        <entry file="file://$PROJECT_DIR$/DataScience/03.DataVisualization&amp;Analysis/03. Data-Visualization-Exploratory-Data-Analysis-Lab/Data Visualization and EDA Lab.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -34,10 +36,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2000" />
-    <option name="y" value="43" />
-    <option name="width" value="1290" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="39" />
+    <option name="width" value="1366" />
     <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,7 +47,39 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ArtificialIntelligence 04.2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArtificialIntelligence 04.2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArtificialIntelligence 04.2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArtificialIntelligence 04.2019" type="462c0819:PsiDirectoryNode" />
+              <item name="DataScience" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArtificialIntelligence 04.2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArtificialIntelligence 04.2019" type="462c0819:PsiDirectoryNode" />
+              <item name="DataScience" type="462c0819:PsiDirectoryNode" />
+              <item name="03.DataVisualization&amp;Analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArtificialIntelligence 04.2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArtificialIntelligence 04.2019" type="462c0819:PsiDirectoryNode" />
+              <item name="DataScience" type="462c0819:PsiDirectoryNode" />
+              <item name="03.DataVisualization&amp;Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="03. Data-Visualization-Exploratory-Data-Analysis-Lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -81,18 +115,22 @@
       <workItem from="1560845492701" duration="119000" />
       <workItem from="1560854380941" duration="184000" />
       <workItem from="1560856788845" duration="5429000" />
-      <workItem from="1560866064700" duration="1585000" />
+      <workItem from="1560866064700" duration="1862000" />
+      <workItem from="1560875054356" duration="105000" />
+      <workItem from="1561016228033" duration="628000" />
+      <workItem from="1561033350829" duration="298000" />
+      <workItem from="1561127120234" duration="1809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7795000" />
+    <option name="totallyTimeSpent" value="10912000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2000" y="43" width="1290" height="1041" extended-state="0" />
+    <frame x="1362" y="0" width="1928" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.12219851" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22038421" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -106,15 +144,15 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32893288" />
-      <window_info anchor="bottom" id="Jupyter" order="12" weight="0.32893288" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32878152" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="12" visible="true" weight="0.32878152" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="14" weight="0.32983193" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.32977587" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.4935275" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3036286" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +167,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataScience/02.DataTidingAndCleaning/02. Data-Tidying-and-Cleaning-Lab/Data Tidying and Cleaning Lab.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataScience/03.DataVisualization&amp;Analysis/03. Data-Visualization-Exploratory-Data-Analysis-Lab/Data Visualization and EDA Lab.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>

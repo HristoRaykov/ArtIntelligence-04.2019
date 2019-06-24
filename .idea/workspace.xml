@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bc0d6fa5-2172-4172-a4e3-d1295cc712f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScience/03.DataVisualization&amp;Analysis/03. Data-Visualization-Exploratory-Data-Analysis-Lab/Data Visualization and EDA Lab.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScience/03.DataVisualization&amp;Analysis/03. Data-Visualization-Exploratory-Data-Analysis-Lab/Data Visualization and EDA Lab.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +25,9 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ArtificialIntelligence 04.2019" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
@@ -38,9 +42,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1920" />
-    <option name="y" value="39" />
-    <option name="width" value="1366" />
-    <option name="height" value="1041" />
+    <option name="y" value="36" />
+    <option name="width" value="1364" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -57,24 +61,6 @@
               <item name="ArtificialIntelligence 04.2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="ArtificialIntelligence 04.2019" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ArtificialIntelligence 04.2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArtificialIntelligence 04.2019" type="462c0819:PsiDirectoryNode" />
-              <item name="DataScience" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ArtificialIntelligence 04.2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArtificialIntelligence 04.2019" type="462c0819:PsiDirectoryNode" />
-              <item name="DataScience" type="462c0819:PsiDirectoryNode" />
-              <item name="03.DataVisualization&amp;Analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ArtificialIntelligence 04.2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArtificialIntelligence 04.2019" type="462c0819:PsiDirectoryNode" />
-              <item name="DataScience" type="462c0819:PsiDirectoryNode" />
-              <item name="03.DataVisualization&amp;Analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="03. Data-Visualization-Exploratory-Data-Analysis-Lab" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -87,7 +73,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -119,20 +110,24 @@
       <workItem from="1560875054356" duration="105000" />
       <workItem from="1561016228033" duration="628000" />
       <workItem from="1561033350829" duration="298000" />
-      <workItem from="1561127120234" duration="1809000" />
+      <workItem from="1561127120234" duration="1871000" />
+      <workItem from="1561131192165" duration="2857000" />
+      <workItem from="1561134121187" duration="174000" />
+      <workItem from="1561361317332" duration="5072000" />
+      <workItem from="1561367412989" duration="6653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10912000" />
+    <option name="totallyTimeSpent" value="25730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1362" y="0" width="1928" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.22038421" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.2497332" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32977587" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -141,22 +136,62 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32983193" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32878152" />
-      <window_info active="true" anchor="bottom" id="Jupyter" order="12" visible="true" weight="0.32878152" />
+      <window_info anchor="bottom" id="Jupyter" order="12" visible="true" weight="0.28781512" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="14" weight="0.32983193" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.32977587" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.3036286" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3601921" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/pandas/core/frame.py">
@@ -168,6 +203,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataScience/02.DataTidingAndCleaning/02. Data-Tidying-and-Cleaning-Lab/Data Tidying and Cleaning Lab.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/jupyter-notebook/lib/python3.7/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1064">
+          <caret line="7513" column="8" selection-start-line="7513" selection-start-column="8" selection-end-line="7513" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Visualization and EDA Lab.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1024463366/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1607">
+          <caret line="4206" column="8" selection-start-line="4206" selection-start-column="8" selection-end-line="4206" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataScience/03.DataVisualization&amp;Analysis/03. Data-Visualization-Exploratory-Data-Analysis-Lab/Data Visualization and EDA Lab.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />

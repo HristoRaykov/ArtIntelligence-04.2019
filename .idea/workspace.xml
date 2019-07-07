@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc0d6fa5-2172-4172-a4e3-d1295cc712f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ArtificialIntelligence 04.2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ArtificialIntelligence 04.2019.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataScience/Data Science.png" beforeDir="false" afterPath="$PROJECT_DIR$/DataScience/Data Science.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,8 +69,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,10 +81,33 @@
               <item name="ArtificialIntelligence 04.2019" type="462c0819:PsiDirectoryNode" />
               <item name="DataScience" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ArtificialIntelligence 04.2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArtificialIntelligence 04.2019" type="462c0819:PsiDirectoryNode" />
+              <item name="DataScience" type="462c0819:PsiDirectoryNode" />
+              <item name="05.SpacialDataNetworkAnalysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArtificialIntelligence 04.2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArtificialIntelligence 04.2019" type="462c0819:PsiDirectoryNode" />
+              <item name="DataScience" type="462c0819:PsiDirectoryNode" />
+              <item name="05.SpacialDataNetworkAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="05. Working-with-Spatial-Data-and-Network-Analysis-Lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArtificialIntelligence 04.2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArtificialIntelligence 04.2019" type="462c0819:PsiDirectoryNode" />
+              <item name="DataScience" type="462c0819:PsiDirectoryNode" />
+              <item name="05.SpacialDataNetworkAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="05. Working-with-Spatial-Data-and-Network-Analysis-Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,11 +210,12 @@
       <workItem from="1562501409291" duration="2544000" />
       <workItem from="1562504005149" duration="432000" />
       <workItem from="1562504524031" duration="131000" />
+      <workItem from="1562504827656" duration="571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82208000" />
+    <option name="totallyTimeSpent" value="82779000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -208,9 +228,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1362" y="0" width="1928" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11846318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11953042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2497332" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32977587" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -224,7 +243,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4994664" weight="0.32983193" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49893278" visible="true" weight="0.31617647" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49893278" visible="true" weight="0.31617647" />
       <window_info anchor="bottom" id="Jupyter" order="12" weight="0.2552521" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5010672" side_tool="true" weight="0.2972689" />
       <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49893278" weight="0.35609242" />

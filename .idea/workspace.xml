@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc0d6fa5-2172-4172-a4e3-d1295cc712f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,18 +29,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataScience/05.SpacialDataNetworkAnalysis/05. Working-with-Spatial-Data-and-Network-Analysis-Lab/Spatial Data and Networks Lab.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -80,6 +70,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,7 +108,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -221,12 +211,13 @@
       <workItem from="1562501409291" duration="2544000" />
       <workItem from="1562504005149" duration="432000" />
       <workItem from="1562504524031" duration="131000" />
-      <workItem from="1562504827656" duration="2145000" />
+      <workItem from="1562504827656" duration="3671000" />
+      <workItem from="1562511161098" duration="904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84353000" />
+    <option name="totallyTimeSpent" value="86783000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,9 +230,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1362" y="0" width="1928" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11953042" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14727855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2497332" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32977587" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -255,7 +245,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4994664" weight="0.32983193" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49893278" visible="true" weight="0.47058824" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49893278" visible="true" weight="0.44012606" />
       <window_info anchor="bottom" id="Jupyter" order="12" weight="0.2552521" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5010672" side_tool="true" weight="0.2972689" />
       <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49893278" weight="0.35609242" />
@@ -435,15 +425,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataScience/05.SpacialDataNetworkAnalysis/05. Working-with-Spatial-Data-and-Network-Analysis-Lab/Spatial Data and Networks Lab.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataScience/05.SpacialDataNetworkAnalysis/05. Working-with-Spatial-Data-and-Network-Analysis-Lab/Spatial Data and Networks Lab.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
 </project>

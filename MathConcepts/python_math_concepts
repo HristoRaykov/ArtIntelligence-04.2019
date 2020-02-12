@@ -1,0 +1,289 @@
+Plot
+---------------------------------------------------------------------------------------------------------------
+fig = plt.figure()
+plt.axis("equal")
+ax = fig.add_subplot(111)
+
+    ax = plt.gca()
+    ax.spines["bottom"].set_position("zero")
+    ax.spines["left"].set_position("zero")
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+    ax.set_xlim(min_x,max_x)
+    
+   	ax2.axhline(y=0, linewidth=1, color='k')
+
+    
+    ax1.text(0.1, 0.9, equasion, ha='center', va='center', transform=ax1.transAxes)
+    ax1.tick_params(axis='both', which='both', labelsize=8)
+    ax1.set_xlabel("Nav Returns", fontsize=10)
+    ax1.xaxis.set_major_locator(ticker.MultipleLocator(7))
+   	ax1.xaxis.set_major_formatter(FormatStrFormatter("%.2f%%"))
+
+    
+    ax.set_xlim([xlim_min,xlim_max])
+    plt.xlabel("Real")
+    
+    ax.set_ylabel("Numpy Time ms",color="blue",rotation = 0,fontsize=16)
+    ax.spines["left"].set_color("blue")
+    ax.tick_params(axis="y",colors="blue")
+
+    ax.imshow(image_matrix, cmap = "gray")
+
+    plt.hist(cat_image_gray_corrected.ravel(), bins = 256, color = "red", alpha = 0.5, label = "Corrected")
+    ax.plot(x,y,label = "function",linewidth=2)
+    ax.xaxis.set_label_coords(0.75,0.40)
+    plt.legend(loc="lower right",frameon = False)
+    plt.setp([ax_r, ax_g, ax_b], xticks = [], yticks = []) 
+    plt.subplots_adjust(wspace=0.1,hspace=0.1)
+
+    ax.xaxis.set_label_coords(0.5, -0.1)
+    
+    
+    
+    us_budget = pd.read_csv("budget.dat", sep = "\t")
+
+def plot_us_budgets(budget):
+    bar_width = 0.35
+    index = budget.index
+    categories = budget["Category"]
+    ax_budget = plt.gca()
+    ax_budget.bar(index,budget["1978"],bar_width,label="1978")
+    ax_budget.bar(index+bar_width,budget["1979"],bar_width,label="1979")
+    
+    plt.xticks(index+bar_width/2,categories,rotation="60")
+    plt.xlabel("Categories")
+    plt.ylabel("Budget ($ billions)")
+    plt.title("US Budget by Category")
+    plt.legend()
+    plt.show()
+
+==============================================================================================================
+
+
+Python comprehension examples
+---------------------------------------------------------------------------------------------------------------
+cat_image_r, cat_image_g, cat_image_b = [cat_image[:, :, i] for i in range(3)]
+==============================================================================================================
+
+
+Interpolate Polinomial
+---------------------------------------------------------------------------------------------------------------
+def interpolate_polynomial(points, degree=None, min_x=None, max_x=None):
+    points=np.array(points)
+    x = points[:,0]
+    y = points[:,1]
+    if degree==None:
+        degree=len(points)-1
+    if min_x==None:
+        min_x=np.min(x)
+    if max_x==None:
+        max_x=np.max(x)
+
+    coefficients = np.polyfit(x,y,degree)
+    poly = np.poly1d(coefficients)
+    
+    plt = plot_math_function(poly,min_x,max_x)
+    plt.scatter(x,y)
+    plt.show()
+
+==============================================================================================================
+
+Plot Vectors
+---------------------------------------------------------------------------------------------------------------
+def plot_vectors(vectors, colors):
+    vectors = np.array(vectors)
+    start_x = vectors[:,0]
+    start_y = vectors[:,1]
+    end_x = vectors[:,2]
+    end_y = vectors[:,3]
+    ax = plt.gca()
+    ax.quiver(start_x,start_y,end_x-start_x,end_y-start_y,angles = "xy", scale_units = "xy", scale = 1,color= colors)
+    ax.set_aspect("equal")
+    ax.spines["bottom"].set_position("zero")
+    ax.spines["left"].set_position("zero")
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+    x_min_lim = min(np.min(start_x),np.min(end_x))-0.5
+    x_max_lim = max(np.max(start_x),np.max(end_x))+0.5
+    y_min_lim = min(np.min(start_y),np.min(end_y))-0.5
+    y_max_lim = max(np.max(start_y),np.max(end_y))+0.5
+
+    ax.set_xlim(x_min_lim,x_max_lim)
+    ax.set_ylim(y_min_lim,y_max_lim)
+    plt.show()
+==============================================================================================================
+
+
+Find Linear Combination Coefficients
+---------------------------------------------------------------------------------------------------------------
+def find_linear_combination_coefficients(e1, e2, v):
+p.array([e1,e2]).transpose()
+    solution = np.linalg.solve(a,v)
+    return solution
+==============================================================================================================
+
+
+Visualize Transformation
+---------------------------------------------------------------------------------------------------------------
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.transforms import Affine2D
+
+def visualize_transformation(matrix, plot_title):
+    fig = plt.figure()
+    plt.axis("equal")
+    ax = fig.add_subplot(111)
+
+    # Limits, labels and grid
+    ax.set_xlim(-5, 5)
+    ax.set_ylim(-5, 5)
+    ax.set_xticks(np.arange(ax.get_xlim()[0], ax.get_xlim()[1] + 1))
+    ax.set_yticks(np.arange(ax.get_ylim()[0], ax.get_ylim()[1] + 1))
+    ax.set_xticklabels([])
+    ax.set_yticklabels([])
+    ax.grid()
+    ax.set_title(plot_title)
+
+    # Unit vectors
+    ax.quiver([0, 0], [0, 0], [1, 0], [0, 1], color = ["red", "blue"], alpha = 0.2, units = "xy", scale = 1)
+
+    # Transformation
+    t = Affine2D(matrix)
+
+    [min_x, max_x, min_y, max_y] = [2 * ax.get_xlim()[0], 2 * ax.get_xlim()[1] + 1, 2 * ax.get_ylim()[0], 2 * ax.get_ylim()[1] + 1]
+
+    # New (transformed) grid lines
+    # Horizontal
+    for y in np.arange(min_y, max_y):
+        ax.plot([min_x, max_x], [y] * 2, color = "red", linestyle = "--", linewidth = 2, transform = t + ax.transData)
+    # Vertical
+    for x in np.arange(min_x, max_x):
+        ax.plot([x] * 2, [min_y, max_y], color = "blue", linestyle = "--", linewidth = 2, transform = t + ax.transData)
+
+    # New (transformed) unit vectors
+    new_x = t.transform_affine([1, 0])
+    new_y = t.transform_affine([0, 1])
+    ax.quiver([0, 0], [0, 0], [new_x[0], new_y[0]], [new_x[1], new_y[1]], color = ["red", "blue"], units = "xy", scale = 1)
+
+    plt.show()
+
+## Identity
+matrix = [
+    [1, 0, 0],
+    [0, 1, 0],
+    [0, 0, 1]
+]
+
+visualize_transformation(matrix, r"$\mathrm{Identity\ transformation}$")
+
+==============================================================================================================
+
+Read Image as Matrix
+---------------------------------------------------------------------------------------------------------------
+def read_image(url):
+    img = skimage.io.imread(url)
+    return img
+==============================================================================================================
+
+
+Perspective Correction
+---------------------------------------------------------------------------------------------------------------
+fig,[ax_img,ax_book] = plt.subplots(1,2)
+src_img = read_image("book1.jpg")
+src_img_points = np.array([[316., 257.],
+ [534., 374.],
+ [ 72., 477.],
+ [318., 675.]])
+size = (300,400,3)
+dest_img_points = np.array([[0,0],[size[0],0],[0,size[1]],[size[0],size[1]]])
+M,status = cv2.findHomography(src_img_points,dest_img_points)
+dest_img = cv2.warpPerspective(src_img,M,size[0:2])
+ax_img.imshow(src_img)
+ax_book.imshow(dest_img)
+==============================================================================================================
+
+
+
+Visualize Transformed Vector
+---------------------------------------------------------------------------------------------------------------
+def visualize_transformed_vector(matrix, vec):
+    """
+    Shows the vector (starting at (0; 0)) before and after the transformation
+    given by the specified matrix
+    """
+    fig,[ax_origin,ax_transformed] = plt.subplots(1,2)
+
+    ax_origin.set_xlim(-5, 5)
+    ax_origin.set_ylim(-5, 5)
+    ax_origin.set_xticks(np.arange(ax_origin.get_xlim()[0], ax_origin.get_xlim()[1] + 1))
+    ax_origin.set_yticks(np.arange(ax_origin.get_ylim()[0], ax_origin.get_ylim()[1] + 1))
+    ax_origin.grid()
+    ax_origin.set_title("Original vector")
+
+    ax_origin.quiver([0, 0, 0], [0, 0, 0], [1, 0, vec[0]], [0, 1, vec[1]], 
+                     color = ["red", "blue","green"],angles = "xy", scale_units = "xy", scale = 1)
+
+    t = Affine2D(matrix)
+    
+    [min_x, max_x, min_y, max_y] = [2 * ax_origin.get_xlim()[0], 2 * ax_origin.get_xlim()[1] + 1, 2 * ax_origin.get_ylim()[0], 2 * ax_origin.get_ylim()[1] + 1]
+
+    ax_transformed.set_xlim(-12, 12)
+    ax_transformed.set_ylim(-12, 12)
+    ax_transformed.set_xticks(np.arange(ax_origin.get_xlim()[0], ax_origin.get_xlim()[1] + 1))
+    ax_transformed.set_yticks(np.arange(ax_origin.get_ylim()[0], ax_origin.get_ylim()[1] + 1))
+    ax_transformed.set_xticks([])
+    ax_transformed.set_yticks([])
+    ax_transformed.set_title("Transformed vector")
+
+    for y in np.arange(min_y, max_y):
+        ax_transformed.plot([min_x, max_x], [y] * 2, color = "red", linestyle = "--", linewidth = 1, transform = t + ax_transformed.transData)
+    for x in np.arange(min_x, max_x):
+        ax_transformed.plot([x] * 2, [min_y, max_y], color = "blue", linestyle = "--", linewidth = 1, transform = t + ax_transformed.transData)
+
+    new_x = t.transform_affine([1, 0])
+    new_y = t.transform_affine([0, 1])
+    vec_transformed = t.transform_affine(vec)
+    ax_transformed.quiver([0, 0, 0], [0, 0, 0], [new_x[0], new_y[0],vec_transformed[0]], [new_x[1], new_y[1],vec_transformed[1]],color = ["red", "blue","green"],angles = "xy", scale_units = "xy", scale = 1)
+
+    plt.show()
+==============================================================================================================
+
+
+
+Pandas
+---------------------------------------------------------------------------------------------------------------
+
+adx = adx[["timestamp", "close"]]
+
+outlier = alcohol_tabacco[(alcohol_tabacco["Alcohol"]<4.6) & (alcohol_tabacco["Tobacco"]>4.5)]
+alcohol_tabacco_filtered = alcohol_tabacco[~((alcohol_tabacco["Alcohol"]<4.6) & (alcohol_tabacco["Tobacco"]>4.5))]
+
+data = data.set_index(data.iloc[:, 0])
+data = pd.read_csv('path.csv', index_col=0)
+rates_data = pd.read_fwf("https://www.itl.nist.gov/div898/education/anova/newcar.dat", skiprows=25, names=["rate", "city"],header=None)
+
+df.drop(df.columns[i], axis=1, inplace=True)
+spy_data.sort_index(ascending=False,inplace=True)
+ttm_returns = spy_data.loc[~np.isnan(spy_data.ttm_return), "ttm_return"]
+
+
+df.loc[df[DATE_COL_NAME] == period_end_date, col_name + Z_SCORE_POSTFIX] = zscore
+spy_quotes.loc[spy_quotes.index==i,spy_quotes["ttm_returns"]] = 
+
+cef[DATE_COL_NAME] = pd.to_datetime(cef[DATE_COL_NAME])
+
+base_value = df.loc[df[DATE_COL_NAME] == period_start_date, col_name].values[0]
+
+
+city_groups = { k: v.tolist() for k, v in rates_data.groupby("cities").rates}
+
+
+
+==============================================================================================================
+
+
+---------------------------------------------------------------------------------------------------------------
+
+==============================================================================================================
+
